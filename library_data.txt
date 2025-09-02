@@ -1,0 +1,1707 @@
+ADD_BOOK 1 "Internet of Things" "Eric Freeman" 2
+ADD_BOOK 22 "Parallel Programming" "Peter Pacheco" 1
+ADD_BOOK 3 "Web Development Fundamentals" "Jiawei Han" 5
+ADD_BOOK 4 "Data Mining" "David A. Patterson" 4
+ADD_BOOK 55 "Computer Graphics" "Nielsen Chuang" 4
+ADD_BOOK 6 "Quantum Computing" "Andrew S. Tanenbaum" 3
+ADD_BOOK 7 "Game Development" "Jake VanderPlas" 2
+ADD_BOOK 8 "Computer Architecture" "Jacob Eisenstein" 9
+ADD_BOOK 9 "Functional Programming" "Nielsen Chuang" 2
+ADD_BOOK 10 "Cybersecurity Principles" "Jacob Eisenstein" 10
+ADD_BOOK 11 "Game Development" "Jacob Eisenstein" 7
+ADD_BOOK 12 "Parallel Programming" "Kazem Sohraby" 1
+ADD_BOOK 13 "Wireless Sensor Networks" "Thomas Cormen" 1
+ADD_BOOK 114 "Deep Learning" "Peter Pacheco" 2
+ADD_BOOK 15 "Database Management Systems" "Richard Szeliski" 4
+ADD_BOOK 16 "Programming with Java" "Ben Fry" 4
+ADD_BOOK 17 "Introduction to Algorithms" "Dennis Ritchie" 9
+ADD_BOOK 18 "Operating System Concepts" "Tony Parisi" 10
+ADD_BOOK 19 "The C Programming Language" "Jiawei Han" 1
+ADD_BOOK 20 "Computer Graphics" "Eric Freeman" 9
+ADD_BOOK 21 "Object-Oriented Programming" "Sutton & Barto" 4
+ADD_BOOK 22 "Data Visualization" "Andrew S. Tanenbaum" 9
+ADD_BOOK 230 "Cyber-Physical Systems" "Ian Goodfellow" 7
+ADD_BOOK 24 "Data Mining" "Mahadev Satyanarayanan" 4
+ADD_BOOK 25 "Theory of Computation" "Jake VanderPlas" 8
+ADD_BOOK 26 "Database Management Systems" "Jon Duckett" 10
+ADD_BOOK 27 "Embedded Systems" "John F. Hughes" 5
+ADD_BOOK 28 "Internet of Things" "Alan V. Oppenheim" 1
+ADD_BOOK 29 "Quantum Computing" "Johnathan Harbour" 3
+ADD_BOOK 30 "Computer Graphics" "Richard Szeliski" 7
+ADD_BOOK 31 "Web Development Fundamentals" "Peter Pacheco" 6
+ADD_BOOK 32 "Cybersecurity Principles" "Alan Dix" 5
+ADD_BOOK 33 "Data Structures in C" "Raghu Ramakrishnan" 3
+ADD_BOOK 34 "Software Project Management" "Steve Aukstakalnis" 4
+ADD_BOOK 35 "Neural Networks" "Jacob Eisenstein" 6
+ADD_BOOK 360 "Human-Computer Interaction" "Rajkumar Buyya" 2
+ADD_BOOK 37 "Functional Programming" "Simon Haykin" 2
+ADD_BOOK 38 "Python for Data Science" "Steve Aukstakalnis" 7
+ADD_BOOK 39 "Python for Data Science" "Andrew S. Tanenbaum" 2
+ADD_BOOK 40 "Software Testing" "Richard Szeliski" 6
+ADD_BOOK 41 "The C Programming Language" "Herbert Schildt" 6
+ADD_BOOK 42 "Database Management Systems" "Alan Dix" 10
+ADD_BOOK 43 "Bioinformatics" "Sutton & Barto" 5
+ADD_BOOK 44 "Data Structures in C" "Christopher Bishop" 1
+ADD_BOOK 45 "Software Testing" "Arvind Narayanan" 8
+ADD_BOOK 46 "Computer Vision" "Adrian McEwen" 9
+ADD_BOOK 47 "Wireless Sensor Networks" "Rajkumar Buyya" 2
+ADD_BOOK 48 "Embedded Systems" "Nielsen Chuang" 7
+ADD_BOOK 49 "Cloud Computing" "Rajkumar Buyya" 2
+ADD_BOOK 50 "Blockchain Technology" "William Stallings" 9
+ADD_BOOK 51 "Reinforcement Learning" "Richard Szeliski" 5
+ADD_BOOK 52 "Operating System Concepts" "Edward Lee" 10
+ADD_BOOK 53 "Theory of Computation" "Thomas Cormen" 6
+ADD_BOOK 54 "Computer Architecture" "Jake VanderPlas" 10
+ADD_BOOK 55 "Machine Learning" "Steve Aukstakalnis" 4
+ADD_BOOK 56 "Software Project Management" "Abraham Silberschatz" 2
+ADD_BOOK 57 "Quantum Computing" "Thomas Cormen" 1
+ADD_BOOK 58 "Cryptography and Network Security" "Arvind Narayanan" 4
+ADD_BOOK 59 "Embedded Systems" "Alan V. Oppenheim" 5
+ADD_BOOK 60 "Data Visualization" "William Stallings" 2
+ADD_BOOK 61 "Programming with Java" "Eric Freeman" 4
+ADD_BOOK 62 "Software Engineering" "Jake VanderPlas" 2
+ADD_BOOK 63 "Theory of Computation" "Mark Weiss" 7
+ADD_BOOK 64 "Data Mining" "Frank Vahid" 5
+ADD_BOOK 65 "Python for Data Science" "Jacob Eisenstein" 8
+ADD_BOOK 66 "Object-Oriented Programming" "Ian Sommerville" 6
+ADD_BOOK 67 "Human-Computer Interaction" "Alfred Aho" 3
+ADD_BOOK 68 "Augmented Reality" "John F. Hughes" 6
+ADD_BOOK 69 "Programming with Java" "Jake VanderPlas" 6
+ADD_BOOK 70 "Cryptography and Network Security" "Raghu Ramakrishnan" 4
+ADD_BOOK 71 "Artificial Intelligence" "Sutton & Barto" 5
+ADD_BOOK 72 "Game Development" "Tony Parisi" 2
+ADD_BOOK 73 "Cryptography and Network Security" "Simon Haykin" 10
+ADD_BOOK 74 "Cloud Computing" "Viktor Mayer-Schönberger" 3
+ADD_BOOK 75 "Python for Data Science" "Christopher Bishop" 9
+ADD_BOOK 76 "Database Management Systems" "Glenford J. Myers" 4
+ADD_BOOK 77 "Data Mining" "Mark Weiss" 3
+ADD_BOOK 78 "Introduction to Algorithms" "Bjarne Stroustrup" 8
+ADD_BOOK 79 "Computer Graphics" "Robert K. Wysocki" 7
+ADD_BOOK 80 "Quantum Computing" "John F. Hughes" 5
+ADD_BOOK 81 "Edge Computing" "Mark Weiss" 9
+ADD_BOOK 82 "Operating System Concepts" "Michael Sipser" 4
+ADD_BOOK 83 "Game Development" "Mahadev Satyanarayanan" 6
+ADD_BOOK 84 "Database Management Systems" "Michael Sipser" 1
+ADD_BOOK 85 "Python for Data Science" "Robert K. Wysocki" 4
+ADD_BOOK 86 "Natural Language Processing" "Glenford J. Myers" 1
+ADD_BOOK 87 "Computer Vision" "Ian Sommerville" 6
+ADD_BOOK 88 "Database Management Systems" "Raghu Ramakrishnan" 7
+ADD_BOOK 89 "Big Data Analytics" "Bjarne Stroustrup" 5
+ADD_BOOK 90 "Edge Computing" "Roderic Guigo" 2
+ADD_BOOK 91 "Wireless Sensor Networks" "Frank Vahid" 4
+ADD_BOOK 92 "Operating System Concepts" "Jacob Eisenstein" 10
+ADD_BOOK 93 "Reinforcement Learning" "Tony Parisi" 6
+ADD_BOOK 94 "Cybersecurity Principles" "John F. Hughes" 4
+ADD_BOOK 95 "Data Visualization" "Mark Weiss" 8
+ADD_BOOK 96 "Mobile App Development" "Rajkumar Buyya" 7
+ADD_BOOK 97 "Machine Learning" "Ben Fry" 8
+ADD_BOOK 98 "Computer Graphics" "Andrew S. Tanenbaum" 3
+ADD_BOOK 99 "Human-Computer Interaction" "Christopher Bishop" 5
+ADD_BOOK 100 "Software Project Management" "Robert K. Wysocki" 3
+ADD_BOOK 101 "The C Programming Language" "Christopher Bishop" 4
+ADD_BOOK 102 "Functional Programming" "Ian Sommerville" 9
+ADD_BOOK 103 "Mobile App Development" "Viktor Mayer-Schönberger" 9
+ADD_BOOK 104 "Software Project Management" "Ian Goodfellow" 5
+ADD_BOOK 105 "Data Mining" "Jiawei Han" 10
+ADD_BOOK 106 "Compiler Design" "Peter Pacheco" 7
+ADD_BOOK 107 "Software Testing" "William Stallings" 10
+ADD_BOOK 108 "Web Development Fundamentals" "Nielsen Chuang" 7
+ADD_BOOK 109 "Functional Programming" "Jake VanderPlas" 6
+ADD_BOOK 110 "Wireless Sensor Networks" "William Stallings" 4
+ADD_BOOK 111 "Big Data Analytics" "Rajkumar Buyya" 3
+ADD_BOOK 112 "Operating System Concepts" "Andrew S. Tanenbaum" 9
+ADD_BOOK 113 "Introduction to Algorithms" "Johnathan Harbour" 8
+ADD_BOOK 114 "Programming with Java" "Bjarne Stroustrup" 2
+ADD_BOOK 115 "Cryptography and Network Security" "Michael Sipser" 1
+ADD_BOOK 116 "Introduction to Algorithms" "Rajkumar Buyya" 2
+ADD_BOOK 117 "Computer Networks" "Jake VanderPlas" 3
+ADD_BOOK 118 "The C Programming Language" "Herbert Schildt" 3
+ADD_BOOK 119 "Parallel Programming" "Kazem Sohraby" 7
+ADD_BOOK 120 "Software Engineering" "Andrew S. Tanenbaum" 10
+ADD_BOOK 121 "Web Development Fundamentals" "Kazem Sohraby" 2
+ADD_BOOK 122 "Computer Vision" "Michael Sipser" 7
+ADD_BOOK 123 "Bioinformatics" "Ian Sommerville" 7
+ADD_BOOK 124 "Big Data Analytics" "Andrew S. Tanenbaum" 10
+ADD_BOOK 125 "Web Development Fundamentals" "Frank Vahid" 8
+ADD_BOOK 126 "Data Visualization" "Alan V. Oppenheim" 9
+ADD_BOOK 127 "Computer Networks" "Simon Peyton Jones" 5
+ADD_BOOK 128 "Cybersecurity Principles" "Ian Goodfellow" 9
+ADD_BOOK 129 "Internet of Things" "Alan Dix" 1
+ADD_BOOK 130 "Object-Oriented Programming" "Ben Fry" 2
+ADD_BOOK 131 "Introduction to Algorithms" "Alfred Aho" 9
+ADD_BOOK 132 "Cybersecurity Principles" "William Stallings" 5
+ADD_BOOK 133 "Data Visualization" "Richard Szeliski" 6
+ADD_BOOK 134 "Mobile App Development" "Mark Weiss" 2
+ADD_BOOK 135 "Deep Learning" "Thomas Cormen" 5
+ADD_BOOK 16 "Cyber-Physical Systems" "John F. Hughes" 7
+ADD_BOOK 137 "Computer Graphics" "Adrian McEwen" 3
+ADD_BOOK 138 "Virtual Reality" "Andrew S. Tanenbaum" 8
+ADD_BOOK 139 "Reinforcement Learning" "Abraham Silberschatz" 1
+ADD_BOOK 140 "Virtual Reality" "Ben Fry" 5
+ADD_BOOK 141 "Compiler Design" "Andrew S. Tanenbaum" 9
+ADD_BOOK 142 "Wireless Sensor Networks" "Robert K. Wysocki" 3
+ADD_BOOK 143 "Natural Language Processing" "Mahadev Satyanarayanan" 9
+ADD_BOOK 144 "Operating System Concepts" "Alan Dix" 2
+ADD_BOOK 145 "Operating System Concepts" "Richard Szeliski" 5
+ADD_BOOK 146 "Edge Computing" "Simon Peyton Jones" 9
+ADD_BOOK 147 "Python for Data Science" "Herbert Schildt" 10
+ADD_BOOK 148 "Compiler Design" "Alfred Aho" 4
+ADD_BOOK 149 "Computer Networks" "Mark Weiss" 3
+ADD_BOOK 150 "Big Data Analytics" "Steve Aukstakalnis" 6
+ADD_BOOK 151 "Python for Data Science" "Jiawei Han" 3
+ADD_BOOK 152 "Software Testing" "Adrian McEwen" 9
+ADD_BOOK 153 "Digital Signal Processing" "Michael Sipser" 9
+ADD_BOOK 154 "Software Testing" "John F. Hughes" 1
+ADD_BOOK 155 "Web Development Fundamentals" "Sutton & Barto" 10
+ADD_BOOK 156 "Data Structures in C" "Raghu Ramakrishnan" 6
+ADD_BOOK 157 "Computer Networks" "Herbert Schildt" 8
+ADD_BOOK 158 "Computer Vision" "Peter Pacheco" 1
+ADD_BOOK 159 "Parallel Programming" "Adrian McEwen" 2
+ADD_BOOK 160 "Human-Computer Interaction" "Johnathan Harbour" 6
+ADD_BOOK 161 "Natural Language Processing" "Eric Freeman" 5
+ADD_BOOK 162 "Computer Networks" "Raghu Ramakrishnan" 4
+ADD_BOOK 163 "Cybersecurity Principles" "Raghu Ramakrishnan" 1
+ADD_BOOK 164 "The C Programming Language" "Ian Sommerville" 4
+ADD_BOOK 165 "Computer Architecture" "Rajkumar Buyya" 10
+ADD_BOOK 166 "Cryptography and Network Security" "Herbert Schildt" 2
+ADD_BOOK 167 "Natural Language Processing" "Ben Fry" 2
+ADD_BOOK 168 "Embedded Systems" "Alan Dix" 8
+ADD_BOOK 169 "The C Programming Language" "Rajkumar Buyya" 2
+ADD_BOOK 170 "Compiler Design" "Adrian McEwen" 9
+ADD_BOOK 171 "The C Programming Language" "Arvind Narayanan" 3
+ADD_BOOK 172 "Virtual Reality" "Simon Haykin" 3
+ADD_BOOK 173 "Cryptography and Network Security" "Rajkumar Buyya" 8
+ADD_BOOK 174 "Wireless Sensor Networks" "Stuart Russell" 9
+ADD_BOOK 175 "Operating System Concepts" "Simon Peyton Jones" 3
+ADD_BOOK 176 "Functional Programming" "Rajkumar Buyya" 5
+ADD_BOOK 177 "Bioinformatics" "Dennis Ritchie" 9
+ADD_BOOK 178 "Operating System Concepts" "Arvind Narayanan" 10
+ADD_BOOK 179 "Cryptography and Network Security" "Arvind Narayanan" 7
+ADD_BOOK 180 "Software Engineering" "Thomas Cormen" 4
+ADD_BOOK 181 "Programming with Java" "Michael Sipser" 9
+ADD_BOOK 182 "Digital Signal Processing" "Jiawei Han" 4
+ADD_BOOK 183 "Programming with Java" "Adrian McEwen" 5
+ADD_BOOK 184 "Computer Graphics" "Andrew S. Tanenbaum" 7
+ADD_BOOK 185 "The C Programming Language" "Jake VanderPlas" 6
+ADD_BOOK 186 "Data Mining" "Jon Duckett" 8
+ADD_BOOK 187 "Data Structures in C" "Sutton & Barto" 9
+ADD_BOOK 188 "Software Testing" "William Stallings" 8
+ADD_BOOK 189 "Game Development" "Ian Goodfellow" 2
+ADD_BOOK 190 "Big Data Analytics" "Jon Duckett" 4
+ADD_BOOK 191 "Digital Signal Processing" "Richard Szeliski" 4
+ADD_BOOK 192 "Data Mining" "Steve Aukstakalnis" 2
+ADD_BOOK 193 "Compiler Design" "Mark Weiss" 6
+ADD_BOOK 194 "Bioinformatics" "Andrew S. Tanenbaum" 1
+ADD_BOOK 195 "Deep Learning" "Ben Fry" 10
+ADD_BOOK 196 "Wireless Sensor Networks" "Ben Fry" 9
+ADD_BOOK 197 "Bioinformatics" "Dennis Ritchie" 4
+ADD_BOOK 198 "Cyber-Physical Systems" "Arvind Narayanan" 10
+ADD_BOOK 199 "Deep Learning" "Abraham Silberschatz" 4
+ADD_BOOK 200 "Python for Data Science" "Alan V. Oppenheim" 1
+ADD_BOOK 201 "Computer Vision" "Thomas Cormen" 2
+ADD_BOOK 202 "Deep Learning" "Abraham Silberschatz" 1
+ADD_BOOK 203 "Computer Graphics" "Simon Peyton Jones" 4
+ADD_BOOK 204 "Object-Oriented Programming" "Jake VanderPlas" 2
+ADD_BOOK 205 "Cybersecurity Principles" "Ben Fry" 1
+ADD_BOOK 206 "Machine Learning" "Jon Duckett" 6
+ADD_BOOK 207 "Parallel Programming" "Ian Sommerville" 2
+ADD_BOOK 28 "Programming with Java" "Rajkumar Buyya" 9
+ADD_BOOK 209 "Neural Networks" "Simon Haykin" 4
+ADD_BOOK 210 "Cloud Computing" "Glenford J. Myers" 5
+ADD_BOOK 211 "Digital Signal Processing" "David A. Patterson" 8
+ADD_BOOK 212 "Neural Networks" "David A. Patterson" 4
+ADD_BOOK 213 "Compiler Design" "John F. Hughes" 9
+ADD_BOOK 214 "Distributed Systems" "Jake VanderPlas" 3
+ADD_BOOK 215 "Embedded Systems" "David A. Patterson" 10
+ADD_BOOK 216 "Operating System Concepts" "John F. Hughes" 10
+ADD_BOOK 217 "Virtual Reality" "Roderic Guigo" 8
+ADD_BOOK 218 "Object-Oriented Programming" "Dennis Ritchie" 4
+ADD_BOOK 219 "Game Development" "Glenford J. Myers" 8
+ADD_BOOK 220 "Edge Computing" "Roderic Guigo" 7
+ADD_BOOK 221 "Natural Language Processing" "Ian Sommerville" 4
+ADD_BOOK 222 "Software Engineering" "Glenford J. Myers" 2
+ADD_BOOK 223 "Theory of Computation" "Roderic Guigo" 2
+ADD_BOOK 224 "Bioinformatics" "Jake VanderPlas" 7
+ADD_BOOK 225 "Internet of Things" "Robert K. Wysocki" 6
+ADD_BOOK 226 "Deep Learning" "Johnathan Harbour" 7
+ADD_BOOK 227 "Mobile App Development" "Robert K. Wysocki" 7
+ADD_BOOK 228 "Augmented Reality" "Rajkumar Buyya" 8
+ADD_BOOK 229 "Artificial Intelligence" "Nielsen Chuang" 1
+ADD_BOOK 230 "Edge Computing" "Ben Fry" 2
+ADD_BOOK 231 "Cyber-Physical Systems" "Tony Parisi" 1
+ADD_BOOK 232 "Big Data Analytics" "Kazem Sohraby" 7
+ADD_BOOK 233 "Virtual Reality" "Robert K. Wysocki" 6
+ADD_BOOK 234 "Software Engineering" "Jon Duckett" 2
+ADD_BOOK 235 "Blockchain Technology" "Eric Freeman" 4
+ADD_BOOK 236 "Mobile App Development" "Alan V. Oppenheim" 4
+ADD_BOOK 237 "The C Programming Language" "Andrew S. Tanenbaum" 4
+ADD_BOOK 238 "Game Development" "Alfred Aho" 9
+ADD_BOOK 239 "Deep Learning" "Mark Weiss" 8
+ADD_BOOK 240 "Deep Learning" "Arvind Narayanan" 3
+ADD_BOOK 241 "Distributed Systems" "Michael Sipser" 7
+ADD_BOOK 242 "Natural Language Processing" "Bjarne Stroustrup" 3
+ADD_BOOK 243 "Neural Networks" "Glenford J. Myers" 5
+ADD_BOOK 244 "Introduction to Algorithms" "Richard Szeliski" 8
+ADD_BOOK 245 "Data Mining" "Robert K. Wysocki" 4
+ADD_BOOK 246 "Embedded Systems" "Eric Freeman" 2
+ADD_BOOK 247 "Cloud Computing" "Andrew S. Tanenbaum" 8
+ADD_BOOK 248 "Game Development" "Simon Haykin" 9
+ADD_BOOK 249 "Software Testing" "Steve Aukstakalnis" 2
+ADD_BOOK 250 "Python for Data Science" "Steve Aukstakalnis" 1
+ADD_BOOK 251 "Internet of Things" "Tony Parisi" 9
+ADD_BOOK 252 "Compiler Design" "Herbert Schildt" 1
+ADD_BOOK 253 "Compiler Design" "Simon Peyton Jones" 2
+ADD_BOOK 254 "Cloud Computing" "Thomas Cormen" 4
+ADD_BOOK 255 "Augmented Reality" "Viktor Mayer-Schönberger" 3
+ADD_BOOK 256 "Blockchain Technology" "Viktor Mayer-Schönberger" 7
+ADD_BOOK 257 "Computer Vision" "Viktor Mayer-Schönberger" 8
+ADD_BOOK 258 "Wireless Sensor Networks" "Abraham Silberschatz" 8
+ADD_BOOK 259 "Data Structures in C" "Simon Haykin" 4
+ADD_BOOK 260 "Functional Programming" "Ian Sommerville" 7
+ADD_BOOK 261 "Data Mining" "Abraham Silberschatz" 1
+ADD_BOOK 262 "Quantum Computing" "Jake VanderPlas" 3
+ADD_BOOK 263 "Blockchain Technology" "Arvind Narayanan" 7
+ADD_BOOK 264 "Embedded Systems" "Mark Weiss" 1
+ADD_BOOK 265 "Software Testing" "Peter Pacheco" 7
+ADD_BOOK 266 "Edge Computing" "Thomas Cormen" 5
+ADD_BOOK 267 "Cybersecurity Principles" "Thomas Cormen" 8
+ADD_BOOK 268 "Virtual Reality" "William Stallings" 5
+ADD_BOOK 269 "Distributed Systems" "Robert K. Wysocki" 7
+ADD_BOOK 270 "Blockchain Technology" "John F. Hughes" 9
+ADD_BOOK 271 "Embedded Systems" "Abraham Silberschatz" 8
+ADD_BOOK 272 "Big Data Analytics" "Peter Pacheco" 3
+ADD_BOOK 273 "Wireless Sensor Networks" "Jake VanderPlas" 4
+ADD_BOOK 274 "Distributed Systems" "Jon Duckett" 5
+ADD_BOOK 275 "Introduction to Algorithms" "Peter Pacheco" 4
+ADD_BOOK 276 "Cybersecurity Principles" "John F. Hughes" 1
+ADD_BOOK 277 "Computer Vision" "Herbert Schildt" 10
+ADD_BOOK 278 "Computer Networks" "Peter Pacheco" 9
+ADD_BOOK 279 "Artificial Intelligence" "Arvind Narayanan" 1
+ADD_BOOK 280 "Internet of Things" "Raghu Ramakrishnan" 6
+ADD_BOOK 281 "Theory of Computation" "Michael Sipser" 1
+ADD_BOOK 282 "Compiler Design" "William Stallings" 1
+ADD_BOOK 283 "Software Engineering" "Simon Peyton Jones" 10
+ADD_BOOK 284 "Compiler Design" "Adrian McEwen" 8
+ADD_BOOK 285 "Deep Learning" "Robert K. Wysocki" 9
+ADD_BOOK 286 "Computer Graphics" "Abraham Silberschatz" 9
+ADD_BOOK 287 "Internet of Things" "Michael Sipser" 3
+ADD_BOOK 288 "Database Management Systems" "Eric Freeman" 1
+ADD_BOOK 289 "Digital Signal Processing" "Nielsen Chuang" 9
+ADD_BOOK 290 "Neural Networks" "Nielsen Chuang" 2
+ADD_BOOK 291 "Embedded Systems" "Kazem Sohraby" 3
+ADD_BOOK 292 "Python for Data Science" "Stuart Russell" 2
+ADD_BOOK 293 "Distributed Systems" "Alan Dix" 10
+ADD_BOOK 294 "Internet of Things" "David A. Patterson" 2
+ADD_BOOK 295 "Distributed Systems" "Jon Duckett" 4
+ADD_BOOK 296 "Computer Architecture" "Michael Sipser" 7
+ADD_BOOK 297 "Cloud Computing" "Viktor Mayer-Schönberger" 2
+ADD_BOOK 298 "Software Testing" "Glenford J. Myers" 10
+ADD_BOOK 299 "Software Testing" "Peter Pacheco" 4
+ADD_BOOK 300 "Introduction to Algorithms" "Jiawei Han" 10
+ADD_BOOK 301 "Computer Vision" "Abraham Silberschatz" 10
+ADD_BOOK 302 "Programming with Java" "Kazem Sohraby" 1
+ADD_BOOK 303 "Cryptography and Network Security" "Dennis Ritchie" 10
+ADD_BOOK 304 "Neural Networks" "Frank Vahid" 2
+ADD_BOOK 305 "Data Structures in C" "Abraham Silberschatz" 7
+ADD_BOOK 306 "Bioinformatics" "Andrew S. Tanenbaum" 10
+ADD_BOOK 307 "Software Engineering" "Jiawei Han" 10
+ADD_BOOK 308 "Cloud Computing" "Alan Dix" 9
+ADD_BOOK 309 "Natural Language Processing" "Johnathan Harbour" 6
+ADD_BOOK 310 "Neural Networks" "Roderic Guigo" 5
+ADD_BOOK 311 "Software Engineering" "Viktor Mayer-Schönberger" 4
+ADD_BOOK 312 "Mobile App Development" "Alan V. Oppenheim" 6
+ADD_BOOK 313 "Introduction to Algorithms" "Rajkumar Buyya" 4
+ADD_BOOK 314 "Human-Computer Interaction" "Alfred Aho" 5
+ADD_BOOK 315 "Digital Signal Processing" "William Stallings" 7
+ADD_BOOK 316 "Introduction to Algorithms" "Dennis Ritchie" 3
+ADD_BOOK 317 "Data Structures in C" "Ben Fry" 5
+ADD_BOOK 318 "Cybersecurity Principles" "William Stallings" 8
+ADD_BOOK 319 "Augmented Reality" "Herbert Schildt" 6
+ADD_BOOK 320 "Computer Graphics" "Bjarne Stroustrup" 2
+ADD_BOOK 321 "Mobile App Development" "Peter Pacheco" 1
+ADD_BOOK 322 "Edge Computing" "Herbert Schildt" 8
+ADD_BOOK 323 "Embedded Systems" "Ian Goodfellow" 10
+ADD_BOOK 24 "Reinforcement Learning" "William Stallings" 10
+ADD_BOOK 325 "Cryptography and Network Security" "Stuart Russell" 2
+ADD_BOOK 326 "Object-Oriented Programming" "Jon Duckett" 2
+ADD_BOOK 327 "Theory of Computation" "Ben Fry" 9
+ADD_BOOK 328 "Database Management Systems" "Jacob Eisenstein" 4
+ADD_BOOK 329 "Reinforcement Learning" "Arvind Narayanan" 9
+ADD_BOOK 330 "Quantum Computing" "Sutton & Barto" 5
+ADD_BOOK 331 "Game Development" "Sutton & Barto" 3
+ADD_BOOK 332 "Python for Data Science" "Simon Peyton Jones" 6
+ADD_BOOK 333 "Functional Programming" "Robert K. Wysocki" 2
+ADD_BOOK 334 "Reinforcement Learning" "John F. Hughes" 4
+ADD_BOOK 335 "Web Development Fundamentals" "Alan V. Oppenheim" 6
+ADD_BOOK 336 "Deep Learning" "Andrew S. Tanenbaum" 5
+ADD_BOOK 337 "Data Mining" "Edward Lee" 3
+ADD_BOOK 338 "Python for Data Science" "Arvind Narayanan" 8
+ADD_BOOK 339 "Natural Language Processing" "Roderic Guigo" 9
+ADD_BOOK 340 "Compiler Design" "Alfred Aho" 5
+ADD_BOOK 341 "Computer Graphics" "Raghu Ramakrishnan" 10
+ADD_BOOK 342 "Distributed Systems" "Mahadev Satyanarayanan" 9
+ADD_BOOK 343 "The C Programming Language" "Mahadev Satyanarayanan" 1
+ADD_BOOK 344 "Augmented Reality" "Ian Sommerville" 9
+ADD_BOOK 345 "Artificial Intelligence" "Dennis Ritchie" 5
+ADD_BOOK 346 "Digital Signal Processing" "Andrew S. Tanenbaum" 2
+ADD_BOOK 347 "Computer Networks" "Michael Sipser" 3
+ADD_BOOK 348 "Introduction to Algorithms" "Jake VanderPlas" 5
+ADD_BOOK 349 "Natural Language Processing" "Mark Weiss" 2
+ADD_BOOK 350 "Bioinformatics" "Simon Haykin" 2
+ADD_BOOK 351 "Object-Oriented Programming" "David A. Patterson" 9
+ADD_BOOK 352 "Virtual Reality" "Jiawei Han" 3
+ADD_BOOK 353 "Web Development Fundamentals" "Abraham Silberschatz" 5
+ADD_BOOK 354 "Distributed Systems" "Andrew S. Tanenbaum" 5
+ADD_BOOK 355 "Edge Computing" "Jon Duckett" 10
+ADD_BOOK 356 "Data Structures in C" "William Stallings" 4
+ADD_BOOK 357 "Cloud Computing" "Rajkumar Buyya" 6
+ADD_BOOK 358 "Data Mining" "Rajkumar Buyya" 4
+ADD_BOOK 359 "Bioinformatics" "Stuart Russell" 5
+ADD_BOOK 360 "Introduction to Algorithms" "Ben Fry" 9
+ADD_BOOK 361 "Augmented Reality" "Jiawei Han" 8
+ADD_BOOK 362 "Internet of Things" "Simon Peyton Jones" 5
+ADD_BOOK 363 "The C Programming Language" "Nielsen Chuang" 1
+ADD_BOOK 364 "Introduction to Algorithms" "Simon Peyton Jones" 2
+ADD_BOOK 365 "Parallel Programming" "Sutton & Barto" 7
+ADD_BOOK 366 "Compiler Design" "Mark Weiss" 5
+ADD_BOOK 367 "Machine Learning" "Richard Szeliski" 1
+ADD_BOOK 368 "Digital Signal Processing" "Robert K. Wysocki" 1
+ADD_BOOK 369 "Software Engineering" "Ian Goodfellow" 6
+ADD_BOOK 370 "Computer Networks" "Thomas Cormen" 3
+ADD_BOOK 371 "Cybersecurity Principles" "David A. Patterson" 5
+ADD_BOOK 372 "Quantum Computing" "Kazem Sohraby" 3
+ADD_BOOK 373 "Augmented Reality" "Frank Vahid" 8
+ADD_BOOK 374 "Operating System Concepts" "Tony Parisi" 9
+ADD_BOOK 375 "Cloud Computing" "Frank Vahid" 7
+ADD_BOOK 376 "Computer Architecture" "Frank Vahid" 9
+ADD_BOOK 377 "Cloud Computing" "Herbert Schildt" 1
+ADD_BOOK 378 "Big Data Analytics" "Jacob Eisenstein" 2
+ADD_BOOK 379 "Game Development" "Stuart Russell" 2
+ADD_BOOK 380 "Software Engineering" "Christopher Bishop" 3
+ADD_BOOK 381 "Parallel Programming" "Rajkumar Buyya" 9
+ADD_BOOK 382 "Web Development Fundamentals" "Bjarne Stroustrup" 1
+ADD_BOOK 383 "Programming with Java" "Ian Goodfellow" 6
+ADD_BOOK 384 "Deep Learning" "Rajkumar Buyya" 10
+ADD_BOOK 385 "Software Testing" "Jiawei Han" 9
+ADD_BOOK 386 "Compiler Design" "Jon Duckett" 3
+ADD_BOOK 387 "Introduction to Algorithms" "Glenford J. Myers" 7
+ADD_BOOK 388 "Object-Oriented Programming" "Mark Weiss" 3
+ADD_BOOK 389 "Neural Networks" "Thomas Cormen" 1
+ADD_BOOK 390 "Reinforcement Learning" "Simon Haykin" 5
+ADD_BOOK 391 "Data Visualization" "Dennis Ritchie" 6
+ADD_BOOK 392 "Computer Architecture" "Christopher Bishop" 1
+ADD_BOOK 393 "The C Programming Language" "Viktor Mayer-Schönberger" 6
+ADD_BOOK 394 "Computer Graphics" "Adrian McEwen" 4
+ADD_BOOK 395 "Reinforcement Learning" "David A. Patterson" 4
+ADD_BOOK 396 "Neural Networks" "Jiawei Han" 2
+ADD_BOOK 397 "Operating System Concepts" "Thomas Cormen" 6
+ADD_BOOK 398 "Game Development" "Robert K. Wysocki" 9
+ADD_BOOK 399 "Computer Networks" "Tony Parisi" 7
+ADD_BOOK 400 "Mobile App Development" "Alfred Aho" 10
+ADD_BOOK 401 "Software Project Management" "Christopher Bishop" 3
+ADD_BOOK 402 "Edge Computing" "Robert K. Wysocki" 4
+ADD_BOOK 403 "Bioinformatics" "Arvind Narayanan" 3
+ADD_BOOK 404 "Cloud Computing" "Alfred Aho" 3
+ADD_BOOK 405 "Data Structures in C" "Christopher Bishop" 7
+ADD_BOOK 406 "The C Programming Language" "Michael Sipser" 1
+ADD_BOOK 407 "Cloud Computing" "Raghu Ramakrishnan" 3
+ADD_BOOK 408 "Object-Oriented Programming" "Robert K. Wysocki" 6
+ADD_BOOK 409 "Cybersecurity Principles" "Kazem Sohraby" 7
+ADD_BOOK 410 "Human-Computer Interaction" "Jacob Eisenstein" 4
+ADD_BOOK 411 "Virtual Reality" "Dennis Ritchie" 5
+ADD_BOOK 412 "Deep Learning" "Alan V. Oppenheim" 3
+ADD_BOOK 413 "Introduction to Algorithms" "Ian Sommerville" 2
+ADD_BOOK 414 "Software Testing" "Arvind Narayanan" 7
+ADD_BOOK 415 "The C Programming Language" "Robert K. Wysocki" 1
+ADD_BOOK 416 "Digital Signal Processing" "Rajkumar Buyya" 8
+ADD_BOOK 417 "Data Visualization" "Simon Peyton Jones" 4
+ADD_BOOK 418 "Reinforcement Learning" "Tony Parisi" 4
+ADD_BOOK 419 "Cybersecurity Principles" "Peter Pacheco" 8
+ADD_BOOK 40 "Reinforcement Learning" "Alan Dix" 6
+ADD_BOOK 421 "Quantum Computing" "Richard Szeliski" 5
+ADD_BOOK 422 "Reinforcement Learning" "Richard Szeliski" 4
+ADD_BOOK 423 "Internet of Things" "William Stallings" 4
+ADD_BOOK 424 "Software Engineering" "Alan V. Oppenheim" 1
+ADD_BOOK 425 "Embedded Systems" "Kazem Sohraby" 4
+ADD_BOOK 426 "Introduction to Algorithms" "Abraham Silberschatz" 7
+ADD_BOOK 427 "Digital Signal Processing" "John F. Hughes" 6
+ADD_BOOK 428 "Digital Signal Processing" "Michael Sipser" 5
+ADD_BOOK 429 "Blockchain Technology" "Herbert Schildt" 2
+ADD_BOOK 430 "Web Development Fundamentals" "Tony Parisi" 5
+ADD_BOOK 431 "Python for Data Science" "Adrian McEwen" 6
+ADD_BOOK 432 "Neural Networks" "Robert K. Wysocki" 9
+ADD_BOOK 433 "Python for Data Science" "Viktor Mayer-Schönberger" 7
+ADD_BOOK 434 "Wireless Sensor Networks" "Bjarne Stroustrup" 9
+ADD_BOOK 435 "Cloud Computing" "Edward Lee" 6
+ADD_BOOK 436 "Quantum Computing" "Andrew S. Tanenbaum" 1
+ADD_BOOK 437 "Neural Networks" "Abraham Silberschatz" 2
+ADD_BOOK 438 "Python for Data Science" "Jacob Eisenstein" 5
+ADD_BOOK 439 "Wireless Sensor Networks" "Andrew S. Tanenbaum" 3
+ADD_BOOK 440 "Operating System Concepts" "Jon Duckett" 10
+ADD_BOOK 441 "Computer Networks" "Glenford J. Myers" 5
+ADD_BOOK 442 "Mobile App Development" "Jon Duckett" 1
+ADD_BOOK 443 "Reinforcement Learning" "Nielsen Chuang" 2
+ADD_BOOK 444 "Python for Data Science" "Jake VanderPlas" 10
+ADD_BOOK 445 "Data Visualization" "Ben Fry" 7
+ADD_BOOK 446 "Computer Networks" "Jacob Eisenstein" 6
+ADD_BOOK 447 "Introduction to Algorithms" "Nielsen Chuang" 6
+ADD_BOOK 448 "Compiler Design" "Bjarne Stroustrup" 7
+ADD_BOOK 449 "Functional Programming" "Alan Dix" 10
+ADD_BOOK 450 "Computer Architecture" "Jiawei Han" 9
+ADD_BOOK 451 "Natural Language Processing" "Raghu Ramakrishnan" 2
+ADD_BOOK 452 "Computer Architecture" "Robert K. Wysocki" 7
+ADD_BOOK 453 "Operating System Concepts" "Abraham Silberschatz" 10
+ADD_BOOK 454 "Bioinformatics" "Steve Aukstakalnis" 4
+ADD_BOOK 455 "Mobile App Development" "Thomas Cormen" 5
+ADD_BOOK 456 "Object-Oriented Programming" "Adrian McEwen" 1
+ADD_BOOK 457 "Data Mining" "Arvind Narayanan" 7
+ADD_BOOK 458 "Functional Programming" "Thomas Cormen" 1
+ADD_BOOK 459 "Cybersecurity Principles" "Andrew S. Tanenbaum" 9
+ADD_BOOK 460 "Game Development" "Jacob Eisenstein" 9
+ADD_BOOK 461 "Software Project Management" "William Stallings" 4
+ADD_BOOK 462 "Reinforcement Learning" "Peter Pacheco" 6
+ADD_BOOK 463 "Mobile App Development" "Herbert Schildt" 7
+ADD_BOOK 464 "Game Development" "Mahadev Satyanarayanan" 2
+ADD_BOOK 465 "Computer Graphics" "Jon Duckett" 6
+ADD_BOOK 466 "Database Management Systems" "Edward Lee" 10
+ADD_BOOK 467 "Game Development" "Nielsen Chuang" 6
+ADD_BOOK 468 "Natural Language Processing" "Tony Parisi" 2
+ADD_BOOK 469 "Bioinformatics" "Alan Dix" 5
+ADD_BOOK 470 "Theory of Computation" "Mahadev Satyanarayanan" 9
+ADD_BOOK 471 "Augmented Reality" "Roderic Guigo" 5
+ADD_BOOK 472 "Artificial Intelligence" "Thomas Cormen" 7
+ADD_BOOK 473 "Natural Language Processing" "John F. Hughes" 6
+ADD_BOOK 474 "Functional Programming" "Robert K. Wysocki" 7
+ADD_BOOK 475 "Database Management Systems" "Christopher Bishop" 5
+ADD_BOOK 476 "Introduction to Algorithms" "Robert K. Wysocki" 9
+ADD_BOOK 477 "Natural Language Processing" "Frank Vahid" 3
+ADD_BOOK 478 "Data Structures in C" "Raghu Ramakrishnan" 4
+ADD_BOOK 479 "Web Development Fundamentals" "Alan Dix" 7
+ADD_BOOK 480 "Deep Learning" "Jake VanderPlas" 7
+ADD_BOOK 481 "Object-Oriented Programming" "Alfred Aho" 3
+ADD_BOOK 482 "Big Data Analytics" "Glenford J. Myers" 10
+ADD_BOOK 483 "Computer Networks" "Simon Haykin" 10
+ADD_BOOK 484 "Computer Graphics" "Tony Parisi" 5
+ADD_BOOK 485 "Computer Vision" "Mark Weiss" 7
+ADD_BOOK 486 "Virtual Reality" "John F. Hughes" 9
+ADD_BOOK 487 "Reinforcement Learning" "Ben Fry" 1
+ADD_BOOK 488 "Python for Data Science" "Robert K. Wysocki" 5
+ADD_BOOK 489 "Big Data Analytics" "Stuart Russell" 5
+ADD_BOOK 490 "Virtual Reality" "Robert K. Wysocki" 4
+ADD_BOOK 491 "Cybersecurity Principles" "Thomas Cormen" 7
+ADD_BOOK 492 "Machine Learning" "Jacob Eisenstein" 10
+ADD_BOOK 493 "Cloud Computing" "David A. Patterson" 10
+ADD_BOOK 494 "Web Development Fundamentals" "Alan Dix" 6
+ADD_BOOK 495 "Cyber-Physical Systems" "Jon Duckett" 8
+ADD_BOOK 496 "Object-Oriented Programming" "Richard Szeliski" 8
+ADD_BOOK 497 "Embedded Systems" "Viktor Mayer-Schönberger" 8
+ADD_BOOK 498 "Virtual Reality" "Kazem Sohraby" 4
+ADD_BOOK 499 "Python for Data Science" "Jake VanderPlas" 9
+ADD_BOOK 500 "Web Development Fundamentals" "Jiawei Han" 8
+# Borrower List Updates
+ADD_BORROWER 101 Borrower_1
+ADD_BORROWER 102 Borrower_2
+ADD_BORROWER 103 Borrower_3
+ADD_BORROWER 104 Borrower_4
+ADD_BORROWER 105 Borrower_5
+ADD_BORROWER 106 Borrower_6
+ADD_BORROWER 107 Borrower_7
+ADD_BORROWER 108 Borrower_8
+ADD_BORROWER 109 Borrower_9
+ADD_BORROWER 110 Borrower_10
+ADD_BORROWER 101 Borrower_11
+ADD_BORROWER 112 Borrower_12
+ADD_BORROWER 113 Borrower_13
+ADD_BORROWER 114 Borrower_14
+ADD_BORROWER 115 Borrower_15
+ADD_BORROWER 116 Borrower_16
+ADD_BORROWER 117 Borrower_17
+ADD_BORROWER 118 Borrower_18
+ADD_BORROWER 119 Borrower_19
+ADD_BORROWER 120 Borrower_20
+ADD_BORROWER 121 Borrower_21
+ADD_BORROWER 122 Borrower_22
+ADD_BORROWER 143 Borrower_23
+ADD_BORROWER 124 Borrower_24
+ADD_BORROWER 125 Borrower_25
+ADD_BORROWER 126 Borrower_26
+ADD_BORROWER 127 Borrower_27
+ADD_BORROWER 128 Borrower_28
+ADD_BORROWER 129 Borrower_29
+ADD_BORROWER 130 Borrower_30
+ADD_BORROWER 131 Borrower_31
+ADD_BORROWER 132 Borrower_32
+ADD_BORROWER 133 Borrower_33
+ADD_BORROWER 134 Borrower_34
+ADD_BORROWER 135 Borrower_35
+ADD_BORROWER 136 Borrower_36
+ADD_BORROWER 137 Borrower_37
+ADD_BORROWER 138 Borrower_38
+ADD_BORROWER 139 Borrower_39
+ADD_BORROWER 140 Borrower_40
+ADD_BORROWER 141 Borrower_41
+ADD_BORROWER 142 Borrower_42
+ADD_BORROWER 143 Borrower_43
+ADD_BORROWER 144 Borrower_44
+ADD_BORROWER 145 Borrower_45
+ADD_BORROWER 146 Borrower_46
+ADD_BORROWER 147 Borrower_47
+ADD_BORROWER 148 Borrower_48
+ADD_BORROWER 149 Borrower_49
+ADD_BORROWER 150 Borrower_50
+ADD_BORROWER 151 Borrower_51
+ADD_BORROWER 152 Borrower_52
+ADD_BORROWER 153 Borrower_53
+ADD_BORROWER 154 Borrower_54
+ADD_BORROWER 155 Borrower_55
+ADD_BORROWER 156 Borrower_56
+ADD_BORROWER 157 Borrower_57
+ADD_BORROWER 158 Borrower_58
+ADD_BORROWER 159 Borrower_59
+ADD_BORROWER 160 Borrower_60
+ADD_BORROWER 161 Borrower_61
+ADD_BORROWER 162 Borrower_62
+ADD_BORROWER 163 Borrower_63
+ADD_BORROWER 164 Borrower_64
+ADD_BORROWER 165 Borrower_65
+ADD_BORROWER 166 Borrower_66
+ADD_BORROWER 167 Borrower_67
+ADD_BORROWER 168 Borrower_68
+ADD_BORROWER 169 Borrower_69
+ADD_BORROWER 170 Borrower_70
+ADD_BORROWER 171 Borrower_71
+ADD_BORROWER 172 Borrower_72
+ADD_BORROWER 173 Borrower_73
+ADD_BORROWER 174 Borrower_74
+ADD_BORROWER 175 Borrower_75
+ADD_BORROWER 176 Borrower_76
+ADD_BORROWER 177 Borrower_77
+ADD_BORROWER 178 Borrower_78
+ADD_BORROWER 179 Borrower_79
+ADD_BORROWER 180 Borrower_80
+ADD_BORROWER 181 Borrower_81
+ADD_BORROWER 182 Borrower_82
+ADD_BORROWER 183 Borrower_83
+ADD_BORROWER 184 Borrower_84
+ADD_BORROWER 185 Borrower_85
+ADD_BORROWER 186 Borrower_86
+ADD_BORROWER 187 Borrower_87
+ADD_BORROWER 188 Borrower_88
+ADD_BORROWER 189 Borrower_89
+ADD_BORROWER 190 Borrower_90
+ADD_BORROWER 191 Borrower_91
+ADD_BORROWER 192 Borrower_92
+ADD_BORROWER 193 Borrower_93
+ADD_BORROWER 194 Borrower_94
+ADD_BORROWER 195 Borrower_95
+ADD_BORROWER 196 Borrower_96
+ADD_BORROWER 197 Borrower_97
+ADD_BORROWER 198 Borrower_98
+ADD_BORROWER 199 Borrower_99
+ADD_BORROWER 200 Borrower_100
+ADD_BORROWER 201 Borrower_101
+ADD_BORROWER 202 Borrower_102
+ADD_BORROWER 203 Borrower_103
+ADD_BORROWER 204 Borrower_104
+ADD_BORROWER 205 Borrower_105
+ADD_BORROWER 206 Borrower_106
+ADD_BORROWER 207 Borrower_107
+ADD_BORROWER 208 Borrower_108
+ADD_BORROWER 209 Borrower_109
+ADD_BORROWER 210 Borrower_110
+ADD_BORROWER 211 Borrower_111
+ADD_BORROWER 212 Borrower_112
+ADD_BORROWER 213 Borrower_113
+ADD_BORROWER 214 Borrower_114
+ADD_BORROWER 215 Borrower_115
+ADD_BORROWER 216 Borrower_116
+ADD_BORROWER 217 Borrower_117
+ADD_BORROWER 218 Borrower_118
+ADD_BORROWER 209 Borrower_119
+ADD_BORROWER 220 Borrower_120
+ADD_BORROWER 221 Borrower_121
+ADD_BORROWER 222 Borrower_122
+ADD_BORROWER 223 Borrower_123
+ADD_BORROWER 224 Borrower_124
+ADD_BORROWER 225 Borrower_125
+ADD_BORROWER 226 Borrower_126
+ADD_BORROWER 227 Borrower_127
+ADD_BORROWER 228 Borrower_128
+ADD_BORROWER 229 Borrower_129
+ADD_BORROWER 230 Borrower_130
+ADD_BORROWER 231 Borrower_131
+ADD_BORROWER 232 Borrower_132
+ADD_BORROWER 233 Borrower_133
+ADD_BORROWER 234 Borrower_134
+ADD_BORROWER 235 Borrower_135
+ADD_BORROWER 236 Borrower_136
+ADD_BORROWER 237 Borrower_137
+ADD_BORROWER 238 Borrower_138
+ADD_BORROWER 239 Borrower_139
+ADD_BORROWER 240 Borrower_140
+ADD_BORROWER 241 Borrower_141
+ADD_BORROWER 242 Borrower_142
+ADD_BORROWER 243 Borrower_143
+ADD_BORROWER 244 Borrower_144
+ADD_BORROWER 245 Borrower_145
+ADD_BORROWER 246 Borrower_146
+ADD_BORROWER 247 Borrower_147
+ADD_BORROWER 248 Borrower_148
+ADD_BORROWER 249 Borrower_149
+ADD_BORROWER 250 Borrower_150
+ADD_BORROWER 251 Borrower_151
+ADD_BORROWER 252 Borrower_152
+ADD_BORROWER 253 Borrower_153
+ADD_BORROWER 254 Borrower_154
+ADD_BORROWER 255 Borrower_155
+ADD_BORROWER 256 Borrower_156
+ADD_BORROWER 257 Borrower_157
+ADD_BORROWER 258 Borrower_158
+ADD_BORROWER 259 Borrower_159
+ADD_BORROWER 260 Borrower_160
+ADD_BORROWER 261 Borrower_161
+ADD_BORROWER 262 Borrower_162
+ADD_BORROWER 263 Borrower_163
+ADD_BORROWER 264 Borrower_164
+ADD_BORROWER 265 Borrower_165
+ADD_BORROWER 266 Borrower_166
+ADD_BORROWER 207 Borrower_167
+ADD_BORROWER 268 Borrower_168
+ADD_BORROWER 269 Borrower_169
+ADD_BORROWER 270 Borrower_170
+ADD_BORROWER 271 Borrower_171
+ADD_BORROWER 272 Borrower_172
+ADD_BORROWER 273 Borrower_173
+ADD_BORROWER 274 Borrower_174
+ADD_BORROWER 275 Borrower_175
+ADD_BORROWER 276 Borrower_176
+ADD_BORROWER 277 Borrower_177
+ADD_BORROWER 278 Borrower_178
+ADD_BORROWER 279 Borrower_179
+ADD_BORROWER 280 Borrower_180
+ADD_BORROWER 281 Borrower_181
+ADD_BORROWER 282 Borrower_182
+ADD_BORROWER 283 Borrower_183
+ADD_BORROWER 284 Borrower_184
+ADD_BORROWER 285 Borrower_185
+ADD_BORROWER 286 Borrower_186
+ADD_BORROWER 287 Borrower_187
+ADD_BORROWER 288 Borrower_188
+ADD_BORROWER 289 Borrower_189
+ADD_BORROWER 290 Borrower_190
+ADD_BORROWER 291 Borrower_191
+ADD_BORROWER 292 Borrower_192
+ADD_BORROWER 293 Borrower_193
+ADD_BORROWER 294 Borrower_194
+ADD_BORROWER 295 Borrower_195
+ADD_BORROWER 296 Borrower_196
+ADD_BORROWER 297 Borrower_197
+ADD_BORROWER 298 Borrower_198
+ADD_BORROWER 299 Borrower_199
+ADD_BORROWER 300 Borrower_200
+# Transactions: Borrowing Books
+BORROW_BOOK 142 184 2025-01-05  0
+BORROW_BOOK 77 138 2025-02-23  1
+BORROW_BOOK 31 195 2025-03-02  2
+BORROW_BOOK 240 285 2025-02-02  3
+BORROW_BOOK 116 180 2025-02-02  4
+BORROW_BOOK 6 177 2025-01-27  5
+BORROW_BOOK 29 149 2025-01-17  0
+BORROW_BOOK 173 168 2025-02-09  7
+BORROW_BOOK 149 256 2025-01-28  8
+BORROW_BOOK 157 221 2025-01-19  9
+BORROW_BOOK 48 258 2025-01-15  0
+BORROW_BOOK 10 210 2025-02-10  1
+BORROW_BOOK 58 106 2025-02-07  2
+BORROW_BOOK 102 276 2025-02-28  1
+BORROW_BOOK 111 266 2025-01-31  4
+BORROW_BOOK 94 127 2025-01-10  5
+BORROW_BOOK 233 275 2025-02-06  1
+BORROW_BOOK 104 180 2025-01-08  7
+BORROW_BOOK 236 124 2025-02-24  5
+BORROW_BOOK 228 249 2025-01-27  3
+BORROW_BOOK 83 289 2025-02-05  2
+BORROW_BOOK 11 120 2025-03-01  1
+BORROW_BOOK 116 164 2025-02-18  7
+BORROW_BOOK 239 185 2025-01-01  3
+BORROW_BOOK 188 198 2025-01-09  2
+BORROW_BOOK 225 199 2025-01-01  5
+BORROW_BOOK 40 214 2025-02-18  6
+BORROW_BOOK 41 200 2025-01-18  2
+BORROW_BOOK 120 209 2025-02-10  2
+BORROW_BOOK 72 152 2025-02-10  9
+BORROW_BOOK 134 201 2025-01-29  0
+BORROW_BOOK 175 296 2025-02-27  3
+BORROW_BOOK 230 247 2025-02-07  2
+BORROW_BOOK 157 116 2025-01-02  3
+BORROW_BOOK 197 248 2025-02-09  2
+BORROW_BOOK 215 154 2025-01-06  5
+BORROW_BOOK 192 273 2025-01-10  3
+BORROW_BOOK 5 280 2025-01-10  3
+BORROW_BOOK 16 145 2025-01-02  8
+BORROW_BOOK 148 254 2025-02-02  3
+BORROW_BOOK 163 263 2025-01-25  0
+BORROW_BOOK 88 278 2025-01-07  1
+BORROW_BOOK 100 116 2025-02-08  2
+BORROW_BOOK 75 299 2025-01-23  4
+BORROW_BOOK 25 242 2025-01-27  1
+BORROW_BOOK 227 216 2025-01-27  5
+BORROW_BOOK 62 155 2025-01-03  4
+BORROW_BOOK 220 127 2025-02-02  4
+BORROW_BOOK 138 258 2025-02-11  8
+BORROW_BOOK 65 136 2025-02-25  9
+BORROW_BOOK 138 120 2025-02-08  0
+BORROW_BOOK 67 130 2025-03-01  1
+BORROW_BOOK 183 249 2025-01-11  5
+BORROW_BOOK 234 279 2025-02-07  3
+BORROW_BOOK 119 270 2025-02-07  5
+BORROW_BOOK 176 282 2025-02-09  5
+BORROW_BOOK 219 282 2025-02-09  1
+BORROW_BOOK 205 106 2025-01-11  2
+BORROW_BOOK 176 252 2025-02-02  0
+BORROW_BOOK 34 120 2025-01-12  1
+BORROW_BOOK 195 173 2025-02-03  0
+BORROW_BOOK 42 155 2025-01-13 1
+BORROW_BOOK 25 136 2025-03-02 2
+BORROW_BOOK 209 145 2025-01-15 3
+BORROW_BOOK 132 289 2025-01-04 4
+BORROW_BOOK 25 196 2025-02-18 5
+BORROW_BOOK 217 277 2025-01-12 6
+BORROW_BOOK 28 205 2025-03-01 7
+BORROW_BOOK 220 108 2025-02-17 8
+BORROW_BOOK 183 257 2025-02-22  9
+BORROW_BOOK 174 225 2025-01-12  0
+BORROW_BOOK 161 138 2025-01-05  1
+BORROW_BOOK 126 175 2025-02-17  2
+BORROW_BOOK 120 109 2025-02-11  3
+BORROW_BOOK 79 196 2025-02-22  4
+BORROW_BOOK 95 273 2025-02-05  5
+BORROW_BOOK 193 291 2025-03-02  7
+BORROW_BOOK 2 300 2025-02-15  0
+BORROW_BOOK 142 287 2025-02-08  8
+BORROW_BOOK 86 167 2025-01-22  9
+BORROW_BOOK 159 199 2025-01-07  0
+BORROW_BOOK 75 194 2025-01-28  1
+BORROW_BOOK 40 232 2025-01-02  8
+BORROW_BOOK 244 217 2025-02-12  3
+BORROW_BOOK 249 112 2025-02-27  4
+BORROW_BOOK 144 213 2025-02-06  8
+BORROW_BOOK 195 248 2025-02-18  6
+BORROW_BOOK 140 185 2025-02-03  7
+BORROW_BOOK 186 184 2025-01-12  0
+BORROW_BOOK 11 133 2025-01-14  1
+BORROW_BOOK 129 184 2025-02-22 0
+BORROW_BOOK 50 260 2025-01-20 1
+BORROW_BOOK 201 176 2025-02-26 2
+BORROW_BOOK 31 297 2025-02-08 3
+BORROW_BOOK 239 292 2025-02-16 4
+BORROW_BOOK 108 256 2025-01-20 5
+BORROW_BOOK 49 108 2025-02-18 6
+BORROW_BOOK 62 265 2025-01-03 0
+BORROW_BOOK 68 263 2025-02-18 3
+BORROW_BOOK 209 253 2025-02-26 0
+BORROW_BOOK 199 181 2025-01-17 0
+BORROW_BOOK 127 199 2025-02-26 1
+BORROW_BOOK 154 141 2025-02-23 2
+BORROW_BOOK 225 240 2025-03-01 3
+BORROW_BOOK 147 211 2025-02-28 0
+BORROW_BOOK 110 250 2025-01-13 4
+BORROW_BOOK 188 214 2025-03-01 6
+BORROW_BOOK 95 164 2025-02-06 1
+BORROW_BOOK 158 136 2025-01-04 8
+BORROW_BOOK 222 176 2025-02-27 9
+BORROW_BOOK 72 297 2025-02-04 1
+BORROW_BOOK 231 165 2025-02-28 1
+BORROW_BOOK 64 203 2025-01-19 2
+BORROW_BOOK 11 184 2025-02-25 1
+BORROW_BOOK 138 212 2025-01-04 4
+BORROW_BOOK 66 128 2025-01-08 5
+BORROW_BOOK 221 255 2025-01-05 1
+BORROW_BOOK 178 103 2025-01-24 7
+BORROW_BOOK 211 229 2025-02-04 8
+BORROW_BOOK 237 125 2025-01-17 1
+BORROW_BOOK 220 192 2025-01-31 2
+BORROW_BOOK 4 178 2025-01-18 1
+BORROW_BOOK 134 240 2025-02-17 2
+BORROW_BOOK 144 107 2025-02-18 3
+BORROW_BOOK 71 251 2025-01-18 1
+BORROW_BOOK 184 265 2025-01-15 5
+BORROW_BOOK 209 124 2025-01-23 6
+BORROW_BOOK 44 242 2025-02-14 7
+BORROW_BOOK 172 109 2025-01-17 8
+BORROW_BOOK 166 123 2025-03-02 9
+BORROW_BOOK 44 271 2025-01-26 0
+BORROW_BOOK 9 126 2025-02-11 1
+BORROW_BOOK 99 259 2025-02-03 2
+BORROW_BOOK 169 109 2025-02-11 3
+BORROW_BOOK 67 161 2025-01-10 1
+BORROW_BOOK 247 156 2025-03-02 5
+BORROW_BOOK 219 129 2025-02-16 6
+BORROW_BOOK 144 116 2025-02-05 7
+BORROW_BOOK 102 199 2025-01-08 8
+BORROW_BOOK 123 105 2025-01-05 9
+BORROW_BOOK 70 286 2025-02-09 0
+BORROW_BOOK 84 164 2025-01-26 4
+BORROW_BOOK 137 296 2025-02-22 2
+BORROW_BOOK 148 269 2025-01-24 3
+BORROW_BOOK 95 110 2025-01-17 1
+BORROW_BOOK 231 168 2025-02-23 1
+BORROW_BOOK 186 253 2025-01-09 0
+BORROW_BOOK 209 133 2025-01-29 7
+BORROW_BOOK 179 217 2025-02-02 8
+BORROW_BOOK 250 136 2025-01-16 9
+BORROW_BOOK 240 138 2025-02-05 0
+BORROW_BOOK 20 194 2025-01-02 1
+BORROW_BOOK 47 206 2025-02-05 2
+BORROW_BOOK 184 284 2025-01-18 5
+BORROW_BOOK 193 264 2025-01-18 1
+BORROW_BOOK 246 185 2025-01-22 5
+BORROW_BOOK 24 169 2025-02-06 6
+BORROW_BOOK 150 229 2025-01-25 7
+BORROW_BOOK 181 276 2025-02-09 8
+BORROW_BOOK 78 234 2025-01-29 9
+BORROW_BOOK 6 141 2025-02-04 0
+BORROW_BOOK 207 230 2025-01-27 6
+BORROW_BOOK 83 212 2025-02-06 2
+BORROW_BOOK 91 145 2025-02-22 6
+BORROW_BOOK 221 129 2025-01-18 4
+BORROW_BOOK 27 104 2025-01-30 1
+BORROW_BOOK 18 172 2025-02-22 1
+BORROW_BOOK 209 261 2025-01-20 7
+BORROW_BOOK 142 180 2025-01-03 6
+BORROW_BOOK 148 187 2025-02-14 9
+BORROW_BOOK 103 295 2025-01-07 0
+BORROW_BOOK 217 209 2025-02-03 1
+BORROW_BOOK 125 194 2025-02-19 2
+BORROW_BOOK 235 215 2025-02-24 3
+BORROW_BOOK 120 181 2025-02-27 4
+BORROW_BOOK 5 257 2025-02-23 5
+BORROW_BOOK 213 164 2025-01-05 1
+BORROW_BOOK 147 296 2025-01-11 7
+BORROW_BOOK 150 196 2025-02-02 8
+BORROW_BOOK 32 205 2025-02-23 1
+BORROW_BOOK 81 286 2025-01-01 0
+BORROW_BOOK 247 270 2025-02-19 1
+BORROW_BOOK 129 138 2025-01-16 2
+BORROW_BOOK 7 175 2025-01-12 3
+BORROW_BOOK 209 101 2025-02-22 4
+BORROW_BOOK 167 160 2025-01-30 5
+BORROW_BOOK 21 201 2025-02-01 6
+BORROW_BOOK 183 196 2025-02-02 7
+BORROW_BOOK 210 128 2025-01-12 8
+BORROW_BOOK 2 262 2025-02-01 9
+BORROW_BOOK 234 288 2025-02-24 0
+BORROW_BOOK 77 154 2025-01-14 1
+BORROW_BOOK 213 205 2025-02-25 2
+BORROW_BOOK 35 224 2025-02-28 3
+BORROW_BOOK 204 117 2025-02-18 4
+BORROW_BOOK 157 126 2025-02-12 5
+BORROW_BOOK 44 270 2025-02-07 1
+BORROW_BOOK 246 277 2025-01-11 7
+BORROW_BOOK 174 225 2025-01-07 8
+BORROW_BOOK 208 212 2025-01-24 9
+BORROW_BOOK 83 242 2025-02-13 0
+BORROW_BOOK 166 245 2025-02-09 1
+BORROW_BOOK 72 256 2025-01-18 0
+BORROW_BOOK 194 230 2025-01-26 3
+BORROW_BOOK 225 102 2025-02-02 4
+BORROW_BOOK 157 257 2025-02-19 0
+BORROW_BOOK 205 163 2025-02-05 6
+BORROW_BOOK 163 138 2025-03-02 7
+BORROW_BOOK 184 177 2025-01-03 2
+BORROW_BOOK 97 240 2025-01-28 9
+BORROW_BOOK 210 293 2025-01-19 0
+BORROW_BOOK 227 199 2025-01-05 1
+BORROW_BOOK 121 126 2025-01-07 2
+BORROW_BOOK 20 199 2025-02-10 1
+BORROW_BOOK 137 101 2025-02-28 4
+BORROW_BOOK 148 201 2025-01-20 5
+BORROW_BOOK 222 165 2025-02-19 6
+BORROW_BOOK 88 228 2025-01-10 1
+BORROW_BOOK 249 186 2025-02-06 8
+BORROW_BOOK 174 179 2025-01-01 9
+BORROW_BOOK 139 149 2025-01-13 0
+BORROW_BOOK 227 241 2025-02-03 1
+BORROW_BOOK 20 224 2025-03-02 2
+BORROW_BOOK 215 159 2025-02-06 3
+BORROW_BOOK 38 239 2025-01-19 4
+BORROW_BOOK 224 162 2025-02-15 2
+BORROW_BOOK 40 161 2025-01-13 6
+BORROW_BOOK 180 166 2025-02-28 7
+BORROW_BOOK 193 228 2025-03-02 2
+BORROW_BOOK 172 165 2025-01-04 2
+BORROW_BOOK 15 159 2025-01-14 0
+BORROW_BOOK 113 125 2025-01-16 1
+BORROW_BOOK 161 227 2025-01-25 2
+BORROW_BOOK 138 122 2025-02-26 3
+BORROW_BOOK 227 264 2025-02-08 2
+BORROW_BOOK 178 136 2025-01-03 5
+BORROW_BOOK 206 294 2025-01-27 6
+BORROW_BOOK 204 194 2025-02-02 7
+BORROW_BOOK 105 109 2025-01-28 8
+BORROW_BOOK 154 246 2025-02-09 9
+BORROW_BOOK 230 202 2025-01-31 0
+BORROW_BOOK 122 270 2025-01-23 2
+BORROW_BOOK 37 165 2025-01-03 2
+BORROW_BOOK 113 204 2025-01-24 3
+BORROW_BOOK 28 230 2025-03-02 4
+BORROW_BOOK 66 285 2025-02-27 5
+BORROW_BOOK 134 286 2025-02-22 6
+BORROW_BOOK 201 103 2025-01-10 7
+BORROW_BOOK 159 232 2025-01-18 2
+BORROW_BOOK 187 110 2025-01-07 9
+BORROW_BOOK 66 119 2025-01-22 0
+BORROW_BOOK 34 148 2025-01-31 1
+BORROW_BOOK 21 122 2025-02-05 2
+BORROW_BOOK 12 279 2025-01-26 5
+BORROW_BOOK 98 276 2025-01-28 5
+BORROW_BOOK 56 118 2025-02-21 2
+BORROW_BOOK 240 224 2025-01-10 6
+BORROW_BOOK 4 217 2025-01-13 7
+BORROW_BOOK 175 258 2025-01-29 8
+BORROW_BOOK 217 206 2025-01-06 9
+BORROW_BOOK 110 175 2025-01-02 0
+BORROW_BOOK 146 179 2025-01-07 1
+BORROW_BOOK 85 228 2025-01-16 2
+BORROW_BOOK 161 159 2025-01-21 3
+BORROW_BOOK 13 172 2025-02-13 6
+BORROW_BOOK 76 260 2025-02-12 5
+BORROW_BOOK 192 248 2025-01-24 2
+BORROW_BOOK 138 140 2025-01-12 7
+BORROW_BOOK 18 108 2025-02-22 6
+BORROW_BOOK 27 135 2025-01-10 6
+BORROW_BOOK 153 225 2025-02-13 0
+BORROW_BOOK 241 132 2025-01-04 1
+BORROW_BOOK 66 146 2025-02-12 7
+BORROW_BOOK 247 195 2025-01-16 3
+BORROW_BOOK 186 160 2025-02-24 4
+BORROW_BOOK 104 103 2025-02-05 5
+BORROW_BOOK 5 268 2025-02-13 6
+BORROW_BOOK 93 183 2025-01-28 7
+BORROW_BOOK 36 175 2025-02-05 8
+BORROW_BOOK 119 127 2025-01-03 9
+BORROW_BOOK 237 195 2025-02-14 0
+BORROW_BOOK 141 159 2025-01-05 1
+BORROW_BOOK 130 142 2025-02-15 2
+BORROW_BOOK 200 175 2025-01-12 3
+BORROW_BOOK 243 231 2025-02-07 8
+BORROW_BOOK 165 104 2025-01-21 5
+BORROW_BOOK 137 292 2025-03-02 2
+BORROW_BOOK 114 238 2025-01-10 2
+BORROW_BOOK 106 261 2025-01-02 8
+BORROW_BOOK 8 165 2025-02-05 9
+BORROW_BOOK 216 196 2025-01-24 0
+BORROW_BOOK 90 271 2025-01-23 1
+BORROW_BOOK 219 135 2025-02-18 2
+BORROW_BOOK 42 296 2025-01-25 3
+BORROW_BOOK 229 106 2025-02-12 4
+BORROW_BOOK 162 200 2025-02-15 5
+BORROW_BOOK 88 125 2025-01-18 6
+BORROW_BOOK 80 185 2025-02-12 2
+BORROW_BOOK 238 198 2025-01-07 2
+BORROW_BOOK 240 287 2025-01-19 9
+BORROW_BOOK 250 125 2025-01-23 0
+BORROW_BOOK 116 189 2025-02-27 1
+BORROW_BOOK 228 164 2025-02-09 2
+BORROW_BOOK 149 105 2025-01-22 3
+BORROW_BOOK 21 125 2025-01-20 4
+BORROW_BOOK 221 292 2025-02-21 5
+BORROW_BOOK 46 199 2025-03-01 6
+BORROW_BOOK 163 122 2025-01-18 0
+BORROW_BOOK 71 112 2025-01-29 8
+BORROW_BOOK 133 175 2025-01-23 3
+BORROW_BOOK 24 246 2025-02-22 0
+BORROW_BOOK 87 123 2025-01-10 1
+BORROW_BOOK 39 194 2025-02-21 2
+BORROW_BOOK 47 155 2025-01-03 3
+BORROW_BOOK 99 140 2025-02-22 4
+BORROW_BOOK 81 288 2025-02-02 5
+BORROW_BOOK 42 110 2025-01-07 3
+BORROW_BOOK 158 105 2025-01-16 1
+BORROW_BOOK 136 140 2025-02-12 8
+BORROW_BOOK 1 264 2025-02-10 9
+BORROW_BOOK 53 223 2025-02-17 0
+BORROW_BOOK 203 254 2025-01-11 1
+BORROW_BOOK 80 247 2025-01-28 2
+BORROW_BOOK 66 224 2025-02-16 2
+BORROW_BOOK 25 235 2025-01-21 4
+BORROW_BOOK 137 193 2025-02-16 5
+BORROW_BOOK 137 118 2025-01-30 6
+BORROW_BOOK 150 270 2025-01-26 7
+BORROW_BOOK 175 247 2025-01-08 8
+BORROW_BOOK 69 169 2025-01-05 9
+BORROW_BOOK 213 229 2025-01-07 0
+BORROW_BOOK 144 141 2025-02-18 1
+BORROW_BOOK 27 169 2025-02-09 2
+BORROW_BOOK 62 210 2025-01-27 3
+BORROW_BOOK 135 125 2025-02-04 4
+BORROW_BOOK 117 165 2025-01-22 5
+BORROW_BOOK 170 240 2025-01-10 6
+BORROW_BOOK 176 149 2025-02-01 3
+BORROW_BOOK 199 272 2025-01-12 8
+BORROW_BOOK 46 218 2025-01-24 9
+BORROW_BOOK 144 299 2025-02-20 0
+BORROW_BOOK 94 211 2025-01-21 1
+BORROW_BOOK 4 115 2025-02-03 2
+BORROW_BOOK 153 134 2025-01-23 3
+BORROW_BOOK 198 160 2025-01-13 4
+BORROW_BOOK 53 226 2025-02-08 5
+BORROW_BOOK 127 132 2025-01-22 4
+BORROW_BOOK 111 204 2025-02-23 7
+BORROW_BOOK 11 157 2025-01-21 8
+BORROW_BOOK 125 291 2025-02-17 3
+BORROW_BOOK 219 114 2025-02-17 0
+BORROW_BOOK 210 204 2025-01-07 1
+BORROW_BOOK 107 206 2025-02-25 2
+BORROW_BOOK 54 227 2025-02-08 3
+BORROW_BOOK 119 256 2025-02-26 4
+BORROW_BOOK 127 184 2025-01-09 5
+BORROW_BOOK 97 243 2025-02-17 5
+BORROW_BOOK 112 215 2025-01-03 3
+BORROW_BOOK 83 300 2025-01-02 3
+BORROW_BOOK 171 126 2025-02-20 9
+BORROW_BOOK 124 183 2025-02-18 0
+BORROW_BOOK 178 296 2025-01-10 1
+BORROW_BOOK 158 181 2025-02-28 2
+BORROW_BOOK 117 119 2025-01-06 3
+BORROW_BOOK 187 156 2025-01-18 4
+BORROW_BOOK 118 168 2025-02-09 5
+BORROW_BOOK 85 142 2025-02-26 3
+BORROW_BOOK 54 140 2025-02-19 6
+BORROW_BOOK 217 211 2025-01-17 8
+BORROW_BOOK 37 228 2025-01-31 3
+BORROW_BOOK 131 296 2025-01-21 0
+BORROW_BOOK 86 294 2025-01-06 1
+BORROW_BOOK 167 137 2025-01-15 3
+BORROW_BOOK 152 198 2025-02-28 3
+BORROW_BOOK 145 288 2025-01-01 4
+BORROW_BOOK 86 284 2025-03-01 3
+BORROW_BOOK 144 291 2025-01-02 6
+BORROW_BOOK 206 298 2025-01-15 7
+BORROW_BOOK 13 170 2025-01-31 8
+BORROW_BOOK 63 138 2025-01-05 9
+BORROW_BOOK 182 108 2025-02-21 0
+BORROW_BOOK 136 266 2025-01-09 1
+BORROW_BOOK 250 274 2025-02-27 2
+BORROW_BOOK 109 264 2025-02-06 3
+BORROW_BOOK 46 132 2025-02-09 4
+BORROW_BOOK 89 267 2025-01-01 5
+BORROW_BOOK 9 130 2025-01-23 6
+BORROW_BOOK 177 285 2025-02-27 3
+BORROW_BOOK 66 290 2025-01-14 8
+BORROW_BOOK 191 116 2025-02-25 9
+BORROW_BOOK 107 223 2025-02-10 0
+BORROW_BOOK 65 269 2025-01-29 3
+BORROW_BOOK 129 153 2025-01-17 2
+BORROW_BOOK 84 244 2025-03-01 3
+BORROW_BOOK 24 120 2025-01-08 4
+BORROW_BOOK 57 228 2025-02-02 5
+BORROW_BOOK 116 110 2025-01-19 6
+BORROW_BOOK 65 278 2025-01-28 7
+BORROW_BOOK 70 296 2025-02-27 8
+BORROW_BOOK 162 287 2025-02-12 3
+BORROW_BOOK 80 284 2025-01-03 0
+BORROW_BOOK 79 246 2025-02-10 0
+BORROW_BOOK 243 220 2025-01-25 2
+BORROW_BOOK 104 143 2025-01-22 3
+BORROW_BOOK 233 236 2025-02-20 4
+BORROW_BOOK 195 131 2025-02-28 5
+BORROW_BOOK 4 274 2025-01-01 6
+BORROW_BOOK 224 149 2025-02-02 7
+BORROW_BOOK 97 115 2025-01-19 8
+BORROW_BOOK 45 139 2025-01-01 9
+BORROW_BOOK 129 128 2025-01-06 0
+BORROW_BOOK 80 271 2025-01-10 1
+BORROW_BOOK 7 217 2025-02-16 2
+BORROW_BOOK 100 206 2025-02-24 3
+BORROW_BOOK 129 167 2025-02-24 4
+BORROW_BOOK 10 147 2025-02-27 5
+BORROW_BOOK 116 193 2025-01-19 6
+BORROW_BOOK 30 282 2025-02-02 7
+BORROW_BOOK 128 295 2025-02-15 8
+BORROW_BOOK 229 188 2025-01-18 1
+BORROW_BOOK 168 205 2025-01-03 0
+BORROW_BOOK 15 270 2025-02-27 1
+BORROW_BOOK 233 124 2025-01-11 2
+BORROW_BOOK 140 287 2025-01-03 3
+BORROW_BOOK 204 195 2025-01-08 4
+BORROW_BOOK 103 145 2025-02-16 5
+BORROW_BOOK 114 240 2025-01-12 2
+BORROW_BOOK 193 111 2025-02-08 7
+BORROW_BOOK 242 135 2025-01-26 8
+BORROW_BOOK 216 103 2025-01-29 0
+BORROW_BOOK 34 108 2025-01-02 3
+BORROW_BOOK 209 243 2025-01-25 1
+BORROW_BOOK 180 120 2025-01-21 2
+BORROW_BOOK 101 176 2025-02-09 3
+BORROW_BOOK 157 232 2025-01-11 4
+BORROW_BOOK 165 143 2025-02-08 5
+BORROW_BOOK 245 190 2025-02-18 6
+BORROW_BOOK 34 128 2025-02-05 7
+BORROW_BOOK 166 117 2025-02-11 8
+BORROW_BOOK 9 127 2025-02-18 9
+BORROW_BOOK 5 199 2025-02-21 0
+BORROW_BOOK 204 164 2025-01-27 1
+BORROW_BOOK 65 299 2025-02-14 2
+BORROW_BOOK 79 129 2025-02-03 3
+BORROW_BOOK 170 224 2025-02-03 4
+BORROW_BOOK 8 247 2025-02-16 5
+BORROW_BOOK 174 104 2025-01-25 6
+BORROW_BOOK 116 274 2025-01-02 7
+BORROW_BOOK 185 240 2025-02-10 8
+BORROW_BOOK 184 220 2025-02-20 9
+BORROW_BOOK 216 145 2025-01-19 0
+BORROW_BOOK 179 178 2025-01-02 1
+BORROW_BOOK 203 212 2025-01-11 2
+BORROW_BOOK 195 261 2025-02-08 3
+BORROW_BOOK 40 139 2025-01-10 5
+BORROW_BOOK 66 172 2025-02-17 5
+BORROW_BOOK 237 208 2025-01-09 6
+BORROW_BOOK 166 246 2025-02-06 7
+BORROW_BOOK 243 202 2025-02-08 8
+BORROW_BOOK 114 237 2025-01-09 9
+BORROW_BOOK 145 290 2025-02-05 0
+BORROW_BOOK 110 256 2025-02-24 6
+BORROW_BOOK 194 281 2025-02-08 2
+BORROW_BOOK 224 272 2025-02-13 3
+BORROW_BOOK 240 209 2025-01-29 6
+BORROW_BOOK 240 289 2025-01-22 6
+BORROW_BOOK 127 131 2025-01-05 0
+BORROW_BOOK 215 163 2025-01-20 7
+BORROW_BOOK 16 276 2025-02-21 8
+BORROW_BOOK 39 105 2025-02-25 9
+BORROW_BOOK 173 250 2025-02-17 0
+BORROW_BOOK 192 221 2025-01-21 1
+BORROW_BOOK 134 191 2025-02-15 5
+BORROW_BOOK 221 226 2025-02-02 3
+BORROW_BOOK 69 196 2025-02-24 4
+BORROW_BOOK 250 170 2025-02-06 5
+BORROW_BOOK 84 152 2025-03-01 4
+BORROW_BOOK 250 221 2025-02-15 7
+BORROW_BOOK 210 294 2025-03-01 8
+BORROW_BOOK 11 163 2025-01-25 9
+BORROW_BOOK 36 189 2025-01-16 0
+BORROW_BOOK 162 269 2025-02-08 1
+BORROW_BOOK 216 251 2025-01-12 2
+BORROW_BOOK 128 215 2025-02-28 3
+BORROW_BOOK 205 197 2025-01-26 4
+BORROW_BOOK 17 183 2025-01-06 4
+BORROW_BOOK 215 170 2025-02-05 4
+BORROW_BOOK 231 195 2025-01-06 7
+BORROW_BOOK 130 259 2025-01-05 8
+BORROW_BOOK 193 245 2025-02-15 4
+BORROW_BOOK 212 165 2025-02-08 0
+BORROW_BOOK 248 218 2025-01-21 1
+BORROW_BOOK 79 248 2025-01-12 2
+BORROW_BOOK 42 182 2025-02-21 3
+BORROW_BOOK 151 159 2025-02-17 4
+BORROW_BOOK 85 291 2025-01-21 5
+BORROW_BOOK 86 220 2025-01-18 4
+BORROW_BOOK 131 117 2025-01-04 7
+BORROW_BOOK 217 221 2025-02-03 4
+BORROW_BOOK 29 202 2025-02-01 9
+BORROW_BOOK 28 182 2025-02-19 0
+BORROW_BOOK 31 269 2025-02-05 1
+BORROW_BOOK 80 105 2025-01-21 2
+BORROW_BOOK 128 281 2025-02-09 5
+BORROW_BOOK 3 219 2025-01-18 0
+BORROW_BOOK 52 198 2025-01-06 0
+BORROW_BOOK 172 153 2025-01-12 0
+BORROW_BOOK 210 101 2025-02-08 0
+BORROW_BOOK 65 135 2025-01-01 0
+BORROW_BOOK 58 270 2025-02-06 0
+BORROW_BOOK 37 150 2025-02-18 1
+BORROW_BOOK 10 212 2025-02-27 1
+BORROW_BOOK 117 102 2025-01-17 2
+BORROW_BOOK 192 251 2025-02-17 3
+BORROW_BOOK 220 212 2025-02-15 4
+BORROW_BOOK 107 244 2025-02-02 5
+BORROW_BOOK 169 212 2025-01-29 1
+BORROW_BOOK 178 177 2025-02-21 1
+BORROW_BOOK 141 125 2025-01-29 8
+BORROW_BOOK 113 181 2025-02-01 5
+BORROW_BOOK 79 228 2025-01-02 0
+BORROW_BOOK 188 165 2025-02-07 5
+BORROW_BOOK 144 269 2025-01-24 2
+BORROW_BOOK 93 259 2025-01-02 3
+BORROW_BOOK 234 120 2025-02-16 2
+BORROW_BOOK 213 142 2025-01-01 5
+BORROW_BOOK 127 166 2025-02-26 2
+BORROW_BOOK 229 161 2025-02-14 0
+BORROW_BOOK 92 295 2025-02-01 8
+BORROW_BOOK 168 139 2025-02-06 2
+BORROW_BOOK 51 250 2025-02-15 0
+BORROW_BOOK 89 115 2025-02-14 3
+BORROW_BOOK 88 246 2025-01-06 3
+BORROW_BOOK 165 115 2025-02-08 3
+BORROW_BOOK 243 115 2025-02-28 3
+BORROW_BOOK 7 276 2025-01-17 5
+BORROW_BOOK 131 171 2025-02-27 3
+BORROW_BOOK 220 117 2025-02-25 7
+BORROW_BOOK 231 161 2025-02-21 5
+BORROW_BOOK 243 293 2025-01-07 9
+BORROW_BOOK 19 159 2025-02-06 0
+BORROW_BOOK 175 235 2025-02-09 1
+BORROW_BOOK 27 124 2025-02-21 7
+BORROW_BOOK 125 297 2025-02-20 3
+BORROW_BOOK 155 155 2025-01-27 4
+BORROW_BOOK 14 172 2025-02-02 5
+BORROW_BOOK 37 153 2025-01-21 5
+BORROW_BOOK 4 259 2025-01-04 4
+BORROW_BOOK 48 268 2025-02-28 4
+BORROW_BOOK 32 271 2025-01-27 4
+BORROW_BOOK 215 295 2025-01-02 0
+BORROW_BOOK 124 297 2025-02-20 1
+BORROW_BOOK 60 132 2025-02-05 2
+BORROW_BOOK 51 224 2025-01-24 3
+BORROW_BOOK 111 260 2025-02-18 4
+BORROW_BOOK 7 155 2025-02-24 5
+BORROW_BOOK 8 217 2025-02-19 6
+BORROW_BOOK 121 265 2025-02-06 0
+BORROW_BOOK 160 300 2025-02-06 8
+BORROW_BOOK 141 173 2025-02-08 5
+BORROW_BOOK 15 135 2025-02-08 0
+BORROW_BOOK 53 286 2025-02-02 1
+BORROW_BOOK 126 157 2025-01-06 2
+BORROW_BOOK 202 106 2025-01-19 3
+BORROW_BOOK 26 166 2025-02-14 4
+BORROW_BOOK 229 191 2025-01-25 5
+BORROW_BOOK 48 224 2025-01-19 5
+BORROW_BOOK 37 249 2025-01-22 5
+BORROW_BOOK 138 132 2025-02-19 6
+BORROW_BOOK 166 204 2025-02-21 5
+BORROW_BOOK 245 285 2025-02-01 0
+BORROW_BOOK 175 256 2025-02-04 1
+BORROW_BOOK 4 121 2025-01-23 2
+BORROW_BOOK 91 207 2025-01-31 3
+BORROW_BOOK 225 103 2025-02-04 4
+BORROW_BOOK 14 264 2025-02-10 5
+BORROW_BOOK 210 193 2025-02-15 7
+BORROW_BOOK 5 224 2025-02-23 5
+BORROW_BOOK 25 259 2025-02-01 5
+BORROW_BOOK 125 122 2025-02-03 5
+BORROW_BOOK 144 271 2025-02-02 0
+BORROW_BOOK 147 148 2025-02-05 1
+BORROW_BOOK 182 112 2025-01-05 2
+BORROW_BOOK 186 254 2025-02-04 3
+BORROW_BOOK 210 257 2025-02-26 8
+BORROW_BOOK 211 207 2025-01-16 5
+BORROW_BOOK 78 241 2025-02-09 5
+BORROW_BOOK 217 154 2025-02-16 7
+BORROW_BOOK 149 158 2025-01-10 8
+BORROW_BOOK 13 248 2025-02-13 5
+BORROW_BOOK 228 177 2025-02-28 0
+BORROW_BOOK 192 158 2025-02-21 1
+BORROW_BOOK 218 214 2025-01-19 2
+BORROW_BOOK 244 115 2025-02-16 5
+BORROW_BOOK 109 217 2025-02-27 5
+BORROW_BOOK 23 291 2025-02-11 5
+BORROW_BOOK 110 155 2025-02-15 6
+BORROW_BOOK 141 144 2025-02-28 5
+BORROW_BOOK 11 269 2025-01-03 8
+BORROW_BOOK 119 232 2025-01-26 9
+BORROW_BOOK 4 258 2025-01-15 0
+BORROW_BOOK 245 176 2025-01-01 1
+BORROW_BOOK 249 137 2025-01-11 6
+BORROW_BOOK 142 275 2025-01-10 6
+BORROW_BOOK 34 162 2025-02-01 4
+BORROW_BOOK 147 298 2025-01-12 5
+BORROW_BOOK 202 124 2025-01-28 6
+BORROW_BOOK 32 207 2025-01-07 0
+BORROW_BOOK 18 230 2025-01-28 0
+BORROW_BOOK 21 286 2025-01-06 9
+BORROW_BOOK 66 228 2025-02-01 0
+BORROW_BOOK 50 249 2025-01-26 1
+BORROW_BOOK 70 135 2025-01-29 6
+BORROW_BOOK 123 121 2025-01-12 6
+BORROW_BOOK 149 115 2025-02-08 6
+BORROW_BOOK 15 165 2025-01-16 1
+BORROW_BOOK 27 215 2025-02-03 1
+BORROW_BOOK 99 180 2025-01-30 7
+BORROW_BOOK 169 225 2025-01-27 8
+BORROW_BOOK 40 277 2025-01-07 9
+BORROW_BOOK 166 126 2025-01-08 0
+BORROW_BOOK 13 147 2025-01-25 2
+BORROW_BOOK 84 273 2025-01-30 2
+BORROW_BOOK 174 273 2025-01-24 3
+BORROW_BOOK 54 175 2025-01-22 4
+BORROW_BOOK 54 189 2025-01-30 6
+BORROW_BOOK 45 226 2025-01-10 2
+BORROW_BOOK 32 296 2025-02-09 2
+BORROW_BOOK 100 175 2025-02-06 8
+BORROW_BOOK 38 208 2025-02-05 6
+BORROW_BOOK 87 151 2025-01-08  0
+BORROW_BOOK 190 164 2025-01-30 1
+BORROW_BOOK 164 206 2025-01-10 2
+BORROW_BOOK 64 257 2025-01-30 3
+BORROW_BOOK 18 211 2025-01-09 4
+BORROW_BOOK 56 290 2025-01-27 5
+BORROW_BOOK 49 123 2025-01-11 6
+BORROW_BOOK 180 254 2025-01-04 7
+BORROW_BOOK 90 147 2025-01-15 3
+BORROW_BOOK 43 287 2025-01-02 3
+BORROW_BOOK 151 261 2025-01-19 0
+BORROW_BOOK 158 163 2025-01-03 1
+BORROW_BOOK 77 139 2025-01-08 2
+BORROW_BOOK 180 120 2025-01-09 3
+BORROW_BOOK 186 212 2025-01-03 4
+BORROW_BOOK 66 278 2025-01-23 5
+BORROW_BOOK 30 206 2025-01-10 6
+BORROW_BOOK 190 186 2025-01-10 4
+BORROW_BOOK 50 156 2025-01-20 8
+BORROW_BOOK 136 276 2025-01-30 9
+BORROW_BOOK 203 152 2025-01-20 0
+BORROW_BOOK 225 284 2025-01-21 1
+BORROW_BOOK 234 173 2025-01-17 2
+BORROW_BOOK 170 262 2025-01-30 3
+BORROW_BOOK 217 295 2025-02-01 5
+BORROW_BOOK 92 276 2025-01-04 5
+BORROW_BOOK 118 279 2025-02-06 6
+BORROW_BOOK 2 163 2025-01-20 7
+BORROW_BOOK 173 141 2025-01-29 5
+BORROW_BOOK 145 199 2025-01-08 5
+BORROW_BOOK 101 255 2025-01-21 0
+BORROW_BOOK 12 245 2025-02-05 1
+BORROW_BOOK 151 144 2025-01-03 2
+BORROW_BOOK 21 298 2025-02-01 6
+BORROW_BOOK 191 180 2025-01-24 4
+BORROW_BOOK 113 190 2025-02-04 5
+BORROW_BOOK 27 259 2025-01-22 6
+BORROW_BOOK 231 201 2025-01-15 7
+BORROW_BOOK 125 178 2025-01-17 8
+BORROW_BOOK 97 247 2025-02-10 9
+BORROW_BOOK 243 103 2025-01-18 0
+BORROW_BOOK 116 254 2025-01-08 1
+BORROW_BOOK 24 258 2025-01-05 2
+BORROW_BOOK 102 110 2025-02-01 3
+BORROW_BOOK 163 140 2025-01-20 4
+BORROW_BOOK 183 290 2025-01-12 5
+BORROW_BOOK 188 156 2025-02-07 6
+BORROW_BOOK 82 120 2025-01-11 7
+BORROW_BOOK 86 212 2025-01-16 8
+BORROW_BOOK 130 284 2025-01-17 9
+BORROW_BOOK 6 275 2025-01-06 0
+BORROW_BOOK 60 197 2025-02-05 1
+BORROW_BOOK 109 108 2025-02-01 2
+BORROW_BOOK 117 164 2025-01-21 3
+BORROW_BOOK 206 270 2025-01-17 4
+BORROW_BOOK 62 124 2025-02-10 5
+BORROW_BOOK 6 156 2025-02-01 6
+BORROW_BOOK 224 130 2025-02-02 7
+BORROW_BOOK 39 125 2025-02-08 8
+BORROW_BOOK 119 182 2025-01-28 9
+BORROW_BOOK 69 180 2025-01-20 0
+BORROW_BOOK 161 184 2025-01-06 1
+BORROW_BOOK 24 185 2025-01-02 2
+BORROW_BOOK 142 231 2025-01-16 3
+BORROW_BOOK 165 274 2025-01-01 4
+BORROW_BOOK 18 251 2025-02-07 5
+BORROW_BOOK 233 163 2025-01-17 6
+BORROW_BOOK 184 212 2025-02-08 7
+BORROW_BOOK 215 289 2025-01-07 8
+BORROW_BOOK 87 266 2025-02-04 9
+BORROW_BOOK 46 158 2025-01-25 7
+BORROW_BOOK 246 138 2025-01-12 1
+BORROW_BOOK 240 187 2025-01-04 0
+BORROW_BOOK 98 178 2025-01-21 3
+BORROW_BOOK 190 121 2025-02-10 4
+BORROW_BOOK 189 169 2025-02-03 5
+BORROW_BOOK 36 190 2025-01-22 0
+BORROW_BOOK 132 101 2025-02-03 7
+BORROW_BOOK 198 252 2025-01-15 0
+BORROW_BOOK 74 240 2025-01-11 0
+BORROW_BOOK 142 141 2025-02-01 1
+BORROW_BOOK 83 225 2025-01-31 1
+BORROW_BOOK 110 287 2025-01-02 1
+BORROW_BOOK 128 266 2025-01-10 3
+BORROW_BOOK 146 230 2025-01-03 1
+BORROW_BOOK 58 102 2025-01-01 1
+BORROW_BOOK 188 166 2025-01-07 6
+BORROW_BOOK 159 172 2025-02-07 7
+BORROW_BOOK 221 219 2025-02-08 1
+BORROW_BOOK 162 284 2025-02-03 1
+BORROW_BOOK 242 178 2025-01-11 0
+BORROW_BOOK 110 184 2025-01-05 7
+BORROW_BOOK 57 177 2025-01-19 2
+BORROW_BOOK 242 197 2025-01-09 3
+BORROW_BOOK 167 165 2025-01-01 4
+BORROW_BOOK 217 191 2025-01-07 5
+BORROW_BOOK 109 105 2025-01-16 6
+BORROW_BOOK 172 163 2025-02-03 7
+BORROW_BOOK 201 198 2025-01-14 2
+BORROW_BOOK 70 295 2025-01-05 2
+BORROW_BOOK 83 182 2025-01-28 0
+BORROW_BOOK 90 292 2025-01-19 1
+BORROW_BOOK 176 214 2025-01-19 2
+BORROW_BOOK 226 226 2025-01-20 3
+BORROW_BOOK 75 225 2025-01-25 4
+BORROW_BOOK 181 171 2025-02-07 3
+BORROW_BOOK 10 151 2025-02-09 3
+BORROW_BOOK 227 176 2025-01-26 7
+BORROW_BOOK 187 288 2025-01-17 8
+BORROW_BOOK 167 229 2025-02-03 9
+BORROW_BOOK 241 126 2025-01-26 0
+BORROW_BOOK 54 101 2025-01-06 1
+BORROW_BOOK 109 144 2025-02-07 4
+BORROW_BOOK 11 230 2025-01-06 3
+BORROW_BOOK 204 231 2025-01-07 4
+BORROW_BOOK 216 236 2025-01-21 4
+BORROW_BOOK 155 260 2025-01-15 6
+BORROW_BOOK 246 241 2025-01-11 7
+BORROW_BOOK 210 162 2025-01-19 8
+BORROW_BOOK 41 278 2025-01-01 9
+BORROW_BOOK 181 198 2025-01-31 0
+BORROW_BOOK 247 282 2025-01-11 1
+BORROW_BOOK 49 114 2025-01-29 2
+BORROW_BOOK 196 231 2025-02-10 3
+BORROW_BOOK 160 241 2025-01-08 4
+BORROW_BOOK 70 274 2025-01-27 5
+BORROW_BOOK 196 162 2025-01-01 6
+BORROW_BOOK 140 115 2025-02-10 7
+BORROW_BOOK 179 120 2025-01-07 5
+BORROW_BOOK 18 248 2025-01-17 9
+BORROW_BOOK 25 198 2025-01-26 0
+BORROW_BOOK 182 115 2025-01-24 1
+BORROW_BOOK 198 121 2025-01-21 2
+BORROW_BOOK 60 274 2025-01-09 1
+BORROW_BOOK 39 206 2025-01-09 4
+BORROW_BOOK 141 261 2025-01-18 5
+BORROW_BOOK 182 281 2025-02-08 6
+BORROW_BOOK 164 225 2025-02-02 7
+BORROW_BOOK 162 213 2025-01-28 8
+BORROW_BOOK 148 115 2025-02-05 6
+BORROW_BOOK 193 208 2025-01-06 0
+BORROW_BOOK 65 261 2025-01-28 0
+BORROW_BOOK 103 229 2025-01-29 2
+BORROW_BOOK 60 235 2025-01-05 3
+BORROW_BOOK 245 162 2025-01-30 4
+BORROW_BOOK 141 296 2025-01-21 5
+BORROW_BOOK 46 112 2025-02-06 6
+BORROW_BOOK 184 290 2025-01-25 7
+BORROW_BOOK 119 280 2025-02-05 8
+BORROW_BOOK 130 243 2025-01-19 4
+BORROW_BOOK 24 129 2025-01-02 0
+BORROW_BOOK 234 197 2025-02-04 1
+BORROW_BOOK 149 286 2025-01-25 0
+BORROW_BOOK 167 156 2025-01-11 3
+BORROW_BOOK 17 204 2025-01-07  4
+BORROW_BOOK 235 141 2025-01-20 5
+BORROW_BOOK 142 223 2025-01-24 6
+BORROW_BOOK 237 256 2025-01-04 7
+BORROW_BOOK 134 157 2025-01-27 8
+BORROW_BOOK 7 117 2025-01-29 9
+BORROW_BOOK 88 198 2025-01-01 0
+BORROW_BOOK 17 288 2025-01-20 1
+BORROW_BOOK 152 131 2025-01-08 2
+BORROW_BOOK 153 116 2025-01-11 3
+BORROW_BOOK 5 252 2025-01-21  7
+BORROW_BOOK 88 166 2025-01-13  5
+BORROW_BOOK 131 251 2025-01-27 6
+BORROW_BOOK 39 259 2025-02-04 7
+BORROW_BOOK 80 264 2025-01-06 8
+BORROW_BOOK 42 166 2025-01-19 7
+
+# Transactions: Returning Books
+RETURN_BOOK 4 258 2025-01-25
+RETURN_BOOK 245 176 2025-01-08
+RETURN_BOOK 249 137 2025-01-26
+RETURN_BOOK 142 275 2025-01-22
+RETURN_BOOK 34 162 2025-02-18
+RETURN_BOOK 147 298 2025-01-23
+RETURN_BOOK 202 124 2025-02-07
+RETURN_BOOK 32 207 2025-01-14
+RETURN_BOOK 18 230 2025-02-17
+RETURN_BOOK 21 286 2025-01-20
+RETURN_BOOK 66 228 2025-02-20
+RETURN_BOOK 50 249 2025-02-02
+RETURN_BOOK 70 135 2025-02-05
+RETURN_BOOK 123 121 2025-01-27
+RETURN_BOOK 149 115 2025-02-21
+RETURN_BOOK 15 165 2025-01-25
+RETURN_BOOK 27 215 2025-02-17
+RETURN_BOOK 99 180 2025-02-07
+RETURN_BOOK 169 225 2025-02-05
+RETURN_BOOK 40 277 2025-01-27
+RETURN_BOOK 166 126 2025-01-23
+RETURN_BOOK 13 147 2025-02-09
+RETURN_BOOK 84 273 2025-02-09
+RETURN_BOOK 174 273 2025-02-13
+RETURN_BOOK 54 175 2025-02-02
+RETURN_BOOK 54 189 2025-02-10
+RETURN_BOOK 45 226 2025-01-30
+RETURN_BOOK 32 296 2025-02-27
+RETURN_BOOK 100 175 2025-02-26
+RETURN_BOOK 38 208 2025-02-12
+RETURN_BOOK 87 151 2025-01-24
+RETURN_BOOK 190 164 2025-02-16
+RETURN_BOOK 164 206 2025-01-22
+RETURN_BOOK 64 257 2025-02-18
+RETURN_BOOK 18 211 2025-01-14
+RETURN_BOOK 56 290 2025-02-01
+RETURN_BOOK 49 123 2025-01-18
+RETURN_BOOK 180 254 2025-01-17
+RETURN_BOOK 90 147 2025-01-31
+RETURN_BOOK 43 287 2025-01-08
+RETURN_BOOK 151 261 2025-01-28
+RETURN_BOOK 158 163 2025-01-21
+RETURN_BOOK 77 139 2025-01-15
+RETURN_BOOK 180 120 2025-01-22
+RETURN_BOOK 186 212 2025-01-21
+RETURN_BOOK 66 278 2025-02-03
+RETURN_BOOK 30 206 2025-01-16
+RETURN_BOOK 190 186 2025-01-25
+RETURN_BOOK 50 156 2025-01-29
+RETURN_BOOK 136 276 2025-02-13
+RETURN_BOOK 203 152 2025-01-30
+RETURN_BOOK 225 284 2025-01-29
+RETURN_BOOK 234 173 2025-01-30
+RETURN_BOOK 170 262 2025-02-11
+RETURN_BOOK 217 295 2025-02-06
+RETURN_BOOK 92 276 2025-01-13
+RETURN_BOOK 118 279 2025-02-26
+RETURN_BOOK 2 163 2025-02-05
+RETURN_BOOK 173 141 2025-02-09
+RETURN_BOOK 145 199 2025-01-27
+RETURN_BOOK 101 255 2025-02-09
+RETURN_BOOK 12 245 2025-02-16
+RETURN_BOOK 151 144 2025-01-09
+RETURN_BOOK 21 298 2025-02-18
+RETURN_BOOK 191 180 2025-02-01
+RETURN_BOOK 113 190 2025-02-21
+RETURN_BOOK 27 259 2025-01-31
+RETURN_BOOK 231 201 2025-01-20
+RETURN_BOOK 125 178 2025-02-05
+RETURN_BOOK 97 247 2025-02-23
+RETURN_BOOK 243 103 2025-01-31
+RETURN_BOOK 116 254 2025-01-22
+RETURN_BOOK 24 258 2025-01-18
+RETURN_BOOK 102 110 2025-02-08
+RETURN_BOOK 163 140 2025-01-27
+RETURN_BOOK 183 290 2025-01-18
+RETURN_BOOK 188 156 2025-02-12
+RETURN_BOOK 82 120 2025-01-22
+RETURN_BOOK 86 212 2025-01-31
+RETURN_BOOK 130 284 2025-02-03
+RETURN_BOOK 6 275 2025-01-16
+RETURN_BOOK 60 197 2025-02-17
+RETURN_BOOK 109 108 2025-02-14
+RETURN_BOOK 117 164 2025-02-03
+RETURN_BOOK 206 270 2025-02-02
+RETURN_BOOK 62 124 2025-02-22
+RETURN_BOOK 6 156 2025-02-18
+RETURN_BOOK 224 130 2025-02-13
+RETURN_BOOK 39 125 2025-02-26
+RETURN_BOOK 119 182 2025-02-07
+RETURN_BOOK 69 180 2025-02-02
+RETURN_BOOK 161 184 2025-01-20
+RETURN_BOOK 24 185 2025-01-09
+RETURN_BOOK 142 231 2025-02-03
+RETURN_BOOK 165 274 2025-01-21
+RETURN_BOOK 18 251 2025-02-27
+RETURN_BOOK 233 163 2025-02-06
+RETURN_BOOK 184 212 2025-02-28
+RETURN_BOOK 215 289 2025-01-14
+RETURN_BOOK 87 266 2025-02-12
+RETURN_BOOK 46 158 2025-02-06
+RETURN_BOOK 246 138 2025-01-23
+RETURN_BOOK 240 187 2025-01-18
+RETURN_BOOK 98 178 2025-02-08
+RETURN_BOOK 190 121 2025-02-24
+RETURN_BOOK 189 169 2025-02-23
+RETURN_BOOK 36 190 2025-02-03
+RETURN_BOOK 132 101 2025-02-12
+RETURN_BOOK 198 252 2025-01-28
+RETURN_BOOK 74 240 2025-01-26
+RETURN_BOOK 142 141 2025-02-09
+RETURN_BOOK 83 225 2025-02-05
+RETURN_BOOK 110 287 2025-01-14
+RETURN_BOOK 128 266 2025-01-26
+RETURN_BOOK 146 230 2025-01-23
+RETURN_BOOK 58 102 2025-01-14
+RETURN_BOOK 188 166 2025-01-16
+RETURN_BOOK 159 172 2025-02-20
+RETURN_BOOK 221 219 2025-02-22
+RETURN_BOOK 162 284 2025-02-13
+RETURN_BOOK 242 178 2025-01-21
+RETURN_BOOK 110 184 2025-01-13
+RETURN_BOOK 57 177 2025-02-06
+RETURN_BOOK 242 197 2025-01-23
+RETURN_BOOK 167 165 2025-01-14
+RETURN_BOOK 217 191 2025-01-16
+RETURN_BOOK 109 105 2025-02-05
+RETURN_BOOK 172 163 2025-02-09
+RETURN_BOOK 201 198 2025-01-23
+RETURN_BOOK 70 295 2025-01-22
+RETURN_BOOK 83 182 2025-02-07
+RETURN_BOOK 90 292 2025-01-30
+RETURN_BOOK 176 214 2025-01-24
+RETURN_BOOK 226 226 2025-01-28
+RETURN_BOOK 75 225 2025-02-05
+RETURN_BOOK 181 171 2025-02-14
+RETURN_BOOK 10 151 2025-02-18
+RETURN_BOOK 227 176 2025-02-06
+RETURN_BOOK 187 288 2025-02-05
+RETURN_BOOK 167 229 2025-02-18
+RETURN_BOOK 241 126 2025-02-10
+RETURN_BOOK 54 101 2025-01-11
+RETURN_BOOK 109 144 2025-02-25
+RETURN_BOOK 11 230 2025-01-15
+RETURN_BOOK 204 231 2025-01-12
+RETURN_BOOK 216 236 2025-02-05
+RETURN_BOOK 155 260 2025-02-02
+RETURN_BOOK 246 241 2025-01-20
+RETURN_BOOK 210 162 2025-02-06
+RETURN_BOOK 41 278 2025-01-14
+RETURN_BOOK 181 198 2025-02-13
+RETURN_BOOK 247 282 2025-01-19
+RETURN_BOOK 49 114 2025-02-09
+RETURN_BOOK 196 231 2025-03-01
+RETURN_BOOK 160 241 2025-01-18
+RETURN_BOOK 70 274 2025-02-13
+RETURN_BOOK 196 162 2025-01-18
+RETURN_BOOK 140 115 2025-02-19
+RETURN_BOOK 179 120 2025-01-26
+RETURN_BOOK 18 248 2025-01-30
+RETURN_BOOK 25 198 2025-02-03
+RETURN_BOOK 182 115 2025-02-02
+RETURN_BOOK 198 121 2025-02-01
+RETURN_BOOK 60 274 2025-01-23
+RETURN_BOOK 39 206 2025-01-22
+RETURN_BOOK 141 261 2025-01-30
+RETURN_BOOK 182 281 2025-02-26
+RETURN_BOOK 164 225 2025-02-11
+RETURN_BOOK 162 213 2025-02-02
+RETURN_BOOK 148 115 2025-02-18
+RETURN_BOOK 193 208 2025-01-21
+RETURN_BOOK 65 261 2025-02-07
+RETURN_BOOK 103 229 2025-02-16
+RETURN_BOOK 60 235 2025-01-18
+RETURN_BOOK 245 162 2025-02-10
+RETURN_BOOK 141 296 2025-02-10
+RETURN_BOOK 46 112 2025-02-24
+RETURN_BOOK 184 290 2025-02-09
+RETURN_BOOK 119 280 2025-02-11
+RETURN_BOOK 130 243 2025-01-27
+RETURN_BOOK 24 129 2025-01-21
+RETURN_BOOK 234 197 2025-02-22
+RETURN_BOOK 149 286 2025-02-05
+RETURN_BOOK 167 156 2025-01-31
+RETURN_BOOK 17 204 2025-01-26
+RETURN_BOOK 235 141 2025-01-27
+RETURN_BOOK 142 223 2025-02-09
+RETURN_BOOK 237 256 2025-01-16
+RETURN_BOOK 134 157 2025-02-15
+RETURN_BOOK 7 117 2025-02-08
+RETURN_BOOK 88 198 2025-01-09
+RETURN_BOOK 17 288 2025-01-31
+RETURN_BOOK 152 131 2025-01-25
+RETURN_BOOK 153 116 2025-01-17
+RETURN_BOOK 5 252 2025-02-10
+RETURN_BOOK 88 166 2025-01-27
+RETURN_BOOK 131 251 2025-02-15
+RETURN_BOOK 39 259 2025-02-19
+RETURN_BOOK 80 264 2025-01-19
+RETURN_BOOK 42 166 2025-01-24
+
+# Overdue Check
+CHECK_OVERDUE
