@@ -31,10 +31,10 @@ A streamlined C application for managing library operations using custom data st
 
 ```bash
 # Compile
-gcc -o library_system main.c library.c libtime.c
+gcc -o main.c library.c libtime.c
 
 # Run
-./library_system
+./main
 ```
 
 ## 📋 Menu Options
